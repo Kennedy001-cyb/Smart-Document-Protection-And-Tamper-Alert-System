@@ -1,0 +1,2494 @@
+[
+    {
+        "timestamp": "2025-06-18T08:50:29.047160",
+        "event": "Modified file in safe folder",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": []
+    },
+    {
+        "timestamp": "2025-06-18T08:50:29.053599",
+        "event": "Modified file in safe folder",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": []
+    },
+    {
+        "timestamp": "2025-06-18T09:05:34.281663",
+        "event": "Modified file in safe folder",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": [
+            {
+                "line": 9,
+                "original_line": "3. IT & Technical Support\n11. Tunde Balogun \u2013 IT Support Technician: Provides user support and troubleshooting.\n12. Esther Afolabi \u2013 Network Administrator: Manages internal networks and security protocols.\n13. Segun Olatunji \u2013 Software Developer: Develops and maintains internal applications.\n14. Maryam Abubakar \u2013 Data Analyst: Interprets data to support decision-making.\n15. Kelvin Adeyemi \u2013 System Administrator: Maintains servers and IT infrastructure.",
+                "tampered_line": "11.  Iloduba Johnkenned Chukwuemeka - Logistics Assistant: Coordinates transportation and inventory movement."
+            },
+            {
+                "line": 10,
+                "original_line": "4. Operations Department\n16. Chioma Obi \u2013 Operations Coordinator: Manages daily logistics and workflows.\n17. Jude Okafor \u2013 Field Operations Officer: Supervises on-site project execution.\n18. Fatima Garba \u2013 Logistics Assistant: Coordinates transportation and inventory movement.\n19. Yemi Daramola \u2013 Supply Chain Analyst: Analyzes supply chain efficiency.\n20. Suleiman Bashir \u2013 Quality Assurance Officer: Monitors process compliance and quality.",
+                "tampered_line": "3. IT & Technical Support\n11. Tunde Balogun \u2013 IT Support Technician: Provides user support and troubleshooting.\n12. Esther Afolabi \u2013 Network Administrator: Manages internal networks and security protocols.\n13. Segun Olatunji \u2013 Software Developer: Develops and maintains internal applications.\n14. Maryam Abubakar \u2013 Data Analyst: Interprets data to support decision-making.\n15. Kelvin Adeyemi \u2013 System Administrator: Maintains servers and IT infrastructure."
+            },
+            {
+                "line": 11,
+                "original_line": "5. Marketing & Communications\n21. Chika Umeh \u2013 Marketing Officer: Develops and executes marketing campaigns.\n22. Bolanle Adeoti \u2013 Social Media Manager: Manages online presence and engagement.\n23. Ifeanyi Okoro \u2013 Public Relations Officer: Handles media relations and public image.\n24. Ruth Adeniran \u2013 Content Creator: Produces digital and print content.\n25. Philip Etim \u2013 Graphic Designer: Designs branding and promotional materials.",
+                "tampered_line": "4. Operations Department\n16. Chioma Obi \u2013 Operations Coordinator: Manages daily logistics and workflows.\n17. Jude Okafor \u2013 Field Operations Officer: Supervises on-site project execution.\n18. Fatima Garba \u2013 Logistics Assistant: Coordinates transportation and inventory movement.\n19. Yemi Daramola \u2013 Supply Chain Analyst: Analyzes supply chain efficiency.\n20. Suleiman Bashir \u2013 Quality Assurance Officer: Monitors process compliance and quality."
+            },
+            {
+                "line": 12,
+                "original_line": "6. Sales Department\n26. Ngozi Ike \u2013 Sales Executive: Builds customer relationships and drives sales.\n27. Peter Mensah \u2013 Business Development Officer: Identifies new business opportunities.\n28. Gloria Nwachukwu \u2013 Client Relationship Manager: Manages key customer accounts.\n29. Samuel Olaniyan \u2013 Territory Sales Manager: Oversees sales operations in a designated area.\n30. Rebecca Akpan \u2013 Product Sales Specialist: Promotes and sells specific product lines.",
+                "tampered_line": "5. Marketing & Communications\n21. Chika Umeh \u2013 Marketing Officer: Develops and executes marketing campaigns.\n22. Bolanle Adeoti \u2013 Social Media Manager: Manages online presence and engagement.\n23. Ifeanyi Okoro \u2013 Public Relations Officer: Handles media relations and public image.\n24. Ruth Adeniran \u2013 Content Creator: Produces digital and print content.\n25. Philip Etim \u2013 Graphic Designer: Designs branding and promotional materials."
+            },
+            {
+                "line": 13,
+                "original_line": "7. Customer Service Department\n31. Victoria Enemuo \u2013 Customer Service Officer: Handles inquiries and complaint resolution.\n32. Kenneth Ezeani \u2013 Call Center Agent: Responds to customer calls and support requests.\n33. Lydia Udoh \u2013 Technical Support Representative: Assists customers with technical issues.\n34. Francis Okon \u2013 Client Success Specialist: Ensures customers receive maximum value.\n35. Tina Osei \u2013 Service Quality Analyst: Monitors and improves customer experience.",
+                "tampered_line": "6. Sales Department\n26. Ngozi Ike \u2013 Sales Executive: Builds customer relationships and drives sales.\n27. Peter Mensah \u2013 Business Development Officer: Identifies new business opportunities.\n28. Gloria Nwachukwu \u2013 Client Relationship Manager: Manages key customer accounts.\n29. Samuel Olaniyan \u2013 Territory Sales Manager: Oversees sales operations in a designated area.\n30. Rebecca Akpan \u2013 Product Sales Specialist: Promotes and sells specific product lines."
+            },
+            {
+                "line": 14,
+                "original_line": "8. Legal & Compliance\n36. Efe Okojie \u2013 Legal Officer: Provides legal guidance and contract review.\n37. Chidinma Agu \u2013 Compliance Analyst: Ensures adherence to internal and external policies.\n38. Kingsley Nwachukwu \u2013 Risk Officer: Identifies and mitigates organizational risks.\n39. Amaka Ibe \u2013 Policy Analyst: Develops and updates company policies.\n40. John Bako \u2013 Corporate Affairs Officer: Manages regulatory affairs and external relations.",
+                "tampered_line": "7. Customer Service Department\n31. Victoria Enemuo \u2013 Customer Service Officer: Handles inquiries and complaint resolution.\n32. Kenneth Ezeani \u2013 Call Center Agent: Responds to customer calls and support requests.\n33. Lydia Udoh \u2013 Technical Support Representative: Assists customers with technical issues.\n34. Francis Okon \u2013 Client Success Specialist: Ensures customers receive maximum value.\n35. Tina Osei \u2013 Service Quality Analyst: Monitors and improves customer experience."
+            },
+            {
+                "line": 15,
+                "original_line": "9. Research & Development\n41. Nneka Chukwu \u2013 R&D Associate: Supports innovation and product development.\n42. Bashiru Lawal \u2013 Product Research Analyst: Conducts market and product research.\n43. Tosin Adeyeye \u2013 Lab Technician: Assists in experiments and testing procedures.\n44. Zainab Musa \u2013 Innovation Officer: Coordinates idea generation and concept testing.\n45. Henry Obasi \u2013 Research Coordinator: Organizes research activities and documentation.",
+                "tampered_line": "8. Legal & Compliance\n36. Efe Okojie \u2013 Legal Officer: Provides legal guidance and contract review.\n37. Chidinma Agu \u2013 Compliance Analyst: Ensures adherence to internal and external policies.\n38. Kingsley Nwachukwu \u2013 Risk Officer: Identifies and mitigates organizational risks.\n39. Amaka Ibe \u2013 Policy Analyst: Develops and updates company policies.\n40. John Bako \u2013 Corporate Affairs Officer: Manages regulatory affairs and external relations."
+            },
+            {
+                "line": 16,
+                "original_line": "10. Facilities & Maintenance\n46. Ahmed Bello \u2013 Maintenance Supervisor: Oversees equipment maintenance and repairs.\n47. Josephine Asamoah \u2013 Facility Officer: Ensures building upkeep and safety standards.\n48. Obinna Udo \u2013 Electrical Technician: Handles electrical repairs and maintenance.\n49. Gloria Olorunsogo \u2013 Cleaning Supervisor: Manages janitorial staff and sanitation.\n50. Musa Abdullahi \u2013 Security Officer: Maintains premises security and access control.",
+                "tampered_line": "9. Research & Development\n41. Nneka Chukwu \u2013 R&D Associate: Supports innovation and product development.\n42. Bashiru Lawal \u2013 Product Research Analyst: Conducts market and product research.\n43. Tosin Adeyeye \u2013 Lab Technician: Assists in experiments and testing procedures.\n44. Zainab Musa \u2013 Innovation Officer: Coordinates idea generation and concept testing.\n45. Henry Obasi \u2013 Research Coordinator: Organizes research activities and documentation."
+            },
+            {
+                "line": 17,
+                "original_line": "",
+                "tampered_line": "10. Facilities & Maintenance\n46. Ahmed Bello \u2013 Maintenance Supervisor: Oversees equipment maintenance and repairs.\n47. Josephine Asamoah \u2013 Facility Officer: Ensures building upkeep and safety standards.\n48. Obinna Udo \u2013 Electrical Technician: Handles electrical repairs and maintenance.\n49. Gloria Olorunsogo \u2013 Cleaning Supervisor: Manages janitorial staff and sanitation.\n50. Musa Abdullahi \u2013 Security Officer: Maintains premises security and access control."
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-06-18T09:20:43.612806",
+        "event": "Modified file in safe folder",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": [
+            {
+                "line": 9,
+                "original_line": "3. IT & Technical Support\n11. Tunde Balogun \u2013 IT Support Technician: Provides user support and troubleshooting.\n12. Esther Afolabi \u2013 Network Administrator: Manages internal networks and security protocols.\n13. Segun Olatunji \u2013 Software Developer: Develops and maintains internal applications.\n14. Maryam Abubakar \u2013 Data Analyst: Interprets data to support decision-making.\n15. Kelvin Adeyemi \u2013 System Administrator: Maintains servers and IT infrastructure.",
+                "tampered_line": "11.  Iloduba Johnkennedy Chukwuemeka - Logistics Assistant: Coordinates transportation and inventory movement."
+            },
+            {
+                "line": 10,
+                "original_line": "4. Operations Department\n16. Chioma Obi \u2013 Operations Coordinator: Manages daily logistics and workflows.\n17. Jude Okafor \u2013 Field Operations Officer: Supervises on-site project execution.\n18. Fatima Garba \u2013 Logistics Assistant: Coordinates transportation and inventory movement.\n19. Yemi Daramola \u2013 Supply Chain Analyst: Analyzes supply chain efficiency.\n20. Suleiman Bashir \u2013 Quality Assurance Officer: Monitors process compliance and quality.",
+                "tampered_line": "3. IT & Technical Support\n11. Tunde Balogun \u2013 IT Support Technician: Provides user support and troubleshooting.\n12. Esther Afolabi \u2013 Network Administrator: Manages internal networks and security protocols.\n13. Segun Olatunji \u2013 Software Developer: Develops and maintains internal applications.\n14. Maryam Abubakar \u2013 Data Analyst: Interprets data to support decision-making.\n15. Kelvin Adeyemi \u2013 System Administrator: Maintains servers and IT infrastructure."
+            },
+            {
+                "line": 11,
+                "original_line": "5. Marketing & Communications\n21. Chika Umeh \u2013 Marketing Officer: Develops and executes marketing campaigns.\n22. Bolanle Adeoti \u2013 Social Media Manager: Manages online presence and engagement.\n23. Ifeanyi Okoro \u2013 Public Relations Officer: Handles media relations and public image.\n24. Ruth Adeniran \u2013 Content Creator: Produces digital and print content.\n25. Philip Etim \u2013 Graphic Designer: Designs branding and promotional materials.",
+                "tampered_line": "4. Operations Department\n16. Chioma Obi \u2013 Operations Coordinator: Manages daily logistics and workflows.\n17. Jude Okafor \u2013 Field Operations Officer: Supervises on-site project execution.\n18. Fatima Garba \u2013 Logistics Assistant: Coordinates transportation and inventory movement.\n19. Yemi Daramola \u2013 Supply Chain Analyst: Analyzes supply chain efficiency.\n20. Suleiman Bashir \u2013 Quality Assurance Officer: Monitors process compliance and quality."
+            },
+            {
+                "line": 12,
+                "original_line": "6. Sales Department\n26. Ngozi Ike \u2013 Sales Executive: Builds customer relationships and drives sales.\n27. Peter Mensah \u2013 Business Development Officer: Identifies new business opportunities.\n28. Gloria Nwachukwu \u2013 Client Relationship Manager: Manages key customer accounts.\n29. Samuel Olaniyan \u2013 Territory Sales Manager: Oversees sales operations in a designated area.\n30. Rebecca Akpan \u2013 Product Sales Specialist: Promotes and sells specific product lines.",
+                "tampered_line": "5. Marketing & Communications\n21. Chika Umeh \u2013 Marketing Officer: Develops and executes marketing campaigns.\n22. Bolanle Adeoti \u2013 Social Media Manager: Manages online presence and engagement.\n23. Ifeanyi Okoro \u2013 Public Relations Officer: Handles media relations and public image.\n24. Ruth Adeniran \u2013 Content Creator: Produces digital and print content.\n25. Philip Etim \u2013 Graphic Designer: Designs branding and promotional materials."
+            },
+            {
+                "line": 13,
+                "original_line": "7. Customer Service Department\n31. Victoria Enemuo \u2013 Customer Service Officer: Handles inquiries and complaint resolution.\n32. Kenneth Ezeani \u2013 Call Center Agent: Responds to customer calls and support requests.\n33. Lydia Udoh \u2013 Technical Support Representative: Assists customers with technical issues.\n34. Francis Okon \u2013 Client Success Specialist: Ensures customers receive maximum value.\n35. Tina Osei \u2013 Service Quality Analyst: Monitors and improves customer experience.",
+                "tampered_line": "6. Sales Department\n26. Ngozi Ike \u2013 Sales Executive: Builds customer relationships and drives sales.\n27. Peter Mensah \u2013 Business Development Officer: Identifies new business opportunities.\n28. Gloria Nwachukwu \u2013 Client Relationship Manager: Manages key customer accounts.\n29. Samuel Olaniyan \u2013 Territory Sales Manager: Oversees sales operations in a designated area.\n30. Rebecca Akpan \u2013 Product Sales Specialist: Promotes and sells specific product lines."
+            },
+            {
+                "line": 14,
+                "original_line": "8. Legal & Compliance\n36. Efe Okojie \u2013 Legal Officer: Provides legal guidance and contract review.\n37. Chidinma Agu \u2013 Compliance Analyst: Ensures adherence to internal and external policies.\n38. Kingsley Nwachukwu \u2013 Risk Officer: Identifies and mitigates organizational risks.\n39. Amaka Ibe \u2013 Policy Analyst: Develops and updates company policies.\n40. John Bako \u2013 Corporate Affairs Officer: Manages regulatory affairs and external relations.",
+                "tampered_line": "7. Customer Service Department\n31. Victoria Enemuo \u2013 Customer Service Officer: Handles inquiries and complaint resolution.\n32. Kenneth Ezeani \u2013 Call Center Agent: Responds to customer calls and support requests.\n33. Lydia Udoh \u2013 Technical Support Representative: Assists customers with technical issues.\n34. Francis Okon \u2013 Client Success Specialist: Ensures customers receive maximum value.\n35. Tina Osei \u2013 Service Quality Analyst: Monitors and improves customer experience."
+            },
+            {
+                "line": 15,
+                "original_line": "9. Research & Development\n41. Nneka Chukwu \u2013 R&D Associate: Supports innovation and product development.\n42. Bashiru Lawal \u2013 Product Research Analyst: Conducts market and product research.\n43. Tosin Adeyeye \u2013 Lab Technician: Assists in experiments and testing procedures.\n44. Zainab Musa \u2013 Innovation Officer: Coordinates idea generation and concept testing.\n45. Henry Obasi \u2013 Research Coordinator: Organizes research activities and documentation.",
+                "tampered_line": "8. Legal & Compliance\n36. Efe Okojie \u2013 Legal Officer: Provides legal guidance and contract review.\n37. Chidinma Agu \u2013 Compliance Analyst: Ensures adherence to internal and external policies.\n38. Kingsley Nwachukwu \u2013 Risk Officer: Identifies and mitigates organizational risks.\n39. Amaka Ibe \u2013 Policy Analyst: Develops and updates company policies.\n40. John Bako \u2013 Corporate Affairs Officer: Manages regulatory affairs and external relations."
+            },
+            {
+                "line": 16,
+                "original_line": "10. Facilities & Maintenance\n46. Ahmed Bello \u2013 Maintenance Supervisor: Oversees equipment maintenance and repairs.\n47. Josephine Asamoah \u2013 Facility Officer: Ensures building upkeep and safety standards.\n48. Obinna Udo \u2013 Electrical Technician: Handles electrical repairs and maintenance.\n49. Gloria Olorunsogo \u2013 Cleaning Supervisor: Manages janitorial staff and sanitation.\n50. Musa Abdullahi \u2013 Security Officer: Maintains premises security and access control.",
+                "tampered_line": "9. Research & Development\n41. Nneka Chukwu \u2013 R&D Associate: Supports innovation and product development.\n42. Bashiru Lawal \u2013 Product Research Analyst: Conducts market and product research.\n43. Tosin Adeyeye \u2013 Lab Technician: Assists in experiments and testing procedures.\n44. Zainab Musa \u2013 Innovation Officer: Coordinates idea generation and concept testing.\n45. Henry Obasi \u2013 Research Coordinator: Organizes research activities and documentation."
+            },
+            {
+                "line": 17,
+                "original_line": "",
+                "tampered_line": "10. Facilities & Maintenance\n46. Ahmed Bello \u2013 Maintenance Supervisor: Oversees equipment maintenance and repairs.\n47. Josephine Asamoah \u2013 Facility Officer: Ensures building upkeep and safety standards.\n48. Obinna Udo \u2013 Electrical Technician: Handles electrical repairs and maintenance.\n49. Gloria Olorunsogo \u2013 Cleaning Supervisor: Manages janitorial staff and sanitation.\n50. Musa Abdullahi \u2013 Security Officer: Maintains premises security and access control."
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-06-18T09:24:08.913131",
+        "event": "Modified file in safe folder",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": [
+            {
+                "line": 9,
+                "original_line": "3. IT & Technical Support\n11. Tunde Balogun \u2013 IT Support Technician: Provides user support and troubleshooting.\n12. Esther Afolabi \u2013 Network Administrator: Manages internal networks and security protocols.\n13. Segun Olatunji \u2013 Software Developer: Develops and maintains internal applications.\n14. Maryam Abubakar \u2013 Data Analyst: Interprets data to support decision-making.\n15. Kelvin Adeyemi \u2013 System Administrator: Maintains servers and IT infrastructure.",
+                "tampered_line": "11.  Iloduba Johnkenedy Chukwuemeka - Logistics Assistant: Coordinates transportation and inventory movement."
+            },
+            {
+                "line": 10,
+                "original_line": "4. Operations Department\n16. Chioma Obi \u2013 Operations Coordinator: Manages daily logistics and workflows.\n17. Jude Okafor \u2013 Field Operations Officer: Supervises on-site project execution.\n18. Fatima Garba \u2013 Logistics Assistant: Coordinates transportation and inventory movement.\n19. Yemi Daramola \u2013 Supply Chain Analyst: Analyzes supply chain efficiency.\n20. Suleiman Bashir \u2013 Quality Assurance Officer: Monitors process compliance and quality.",
+                "tampered_line": "3. IT & Technical Support\n11. Tunde Balogun \u2013 IT Support Technician: Provides user support and troubleshooting.\n12. Esther Afolabi \u2013 Network Administrator: Manages internal networks and security protocols.\n13. Segun Olatunji \u2013 Software Developer: Develops and maintains internal applications.\n14. Maryam Abubakar \u2013 Data Analyst: Interprets data to support decision-making.\n15. Kelvin Adeyemi \u2013 System Administrator: Maintains servers and IT infrastructure."
+            },
+            {
+                "line": 11,
+                "original_line": "5. Marketing & Communications\n21. Chika Umeh \u2013 Marketing Officer: Develops and executes marketing campaigns.\n22. Bolanle Adeoti \u2013 Social Media Manager: Manages online presence and engagement.\n23. Ifeanyi Okoro \u2013 Public Relations Officer: Handles media relations and public image.\n24. Ruth Adeniran \u2013 Content Creator: Produces digital and print content.\n25. Philip Etim \u2013 Graphic Designer: Designs branding and promotional materials.",
+                "tampered_line": "4. Operations Department\n16. Chioma Obi \u2013 Operations Coordinator: Manages daily logistics and workflows.\n17. Jude Okafor \u2013 Field Operations Officer: Supervises on-site project execution.\n18. Fatima Garba \u2013 Logistics Assistant: Coordinates transportation and inventory movement.\n19. Yemi Daramola \u2013 Supply Chain Analyst: Analyzes supply chain efficiency.\n20. Suleiman Bashir \u2013 Quality Assurance Officer: Monitors process compliance and quality."
+            },
+            {
+                "line": 12,
+                "original_line": "6. Sales Department\n26. Ngozi Ike \u2013 Sales Executive: Builds customer relationships and drives sales.\n27. Peter Mensah \u2013 Business Development Officer: Identifies new business opportunities.\n28. Gloria Nwachukwu \u2013 Client Relationship Manager: Manages key customer accounts.\n29. Samuel Olaniyan \u2013 Territory Sales Manager: Oversees sales operations in a designated area.\n30. Rebecca Akpan \u2013 Product Sales Specialist: Promotes and sells specific product lines.",
+                "tampered_line": "5. Marketing & Communications\n21. Chika Umeh \u2013 Marketing Officer: Develops and executes marketing campaigns.\n22. Bolanle Adeoti \u2013 Social Media Manager: Manages online presence and engagement.\n23. Ifeanyi Okoro \u2013 Public Relations Officer: Handles media relations and public image.\n24. Ruth Adeniran \u2013 Content Creator: Produces digital and print content.\n25. Philip Etim \u2013 Graphic Designer: Designs branding and promotional materials."
+            },
+            {
+                "line": 13,
+                "original_line": "7. Customer Service Department\n31. Victoria Enemuo \u2013 Customer Service Officer: Handles inquiries and complaint resolution.\n32. Kenneth Ezeani \u2013 Call Center Agent: Responds to customer calls and support requests.\n33. Lydia Udoh \u2013 Technical Support Representative: Assists customers with technical issues.\n34. Francis Okon \u2013 Client Success Specialist: Ensures customers receive maximum value.\n35. Tina Osei \u2013 Service Quality Analyst: Monitors and improves customer experience.",
+                "tampered_line": "6. Sales Department\n26. Ngozi Ike \u2013 Sales Executive: Builds customer relationships and drives sales.\n27. Peter Mensah \u2013 Business Development Officer: Identifies new business opportunities.\n28. Gloria Nwachukwu \u2013 Client Relationship Manager: Manages key customer accounts.\n29. Samuel Olaniyan \u2013 Territory Sales Manager: Oversees sales operations in a designated area.\n30. Rebecca Akpan \u2013 Product Sales Specialist: Promotes and sells specific product lines."
+            },
+            {
+                "line": 14,
+                "original_line": "8. Legal & Compliance\n36. Efe Okojie \u2013 Legal Officer: Provides legal guidance and contract review.\n37. Chidinma Agu \u2013 Compliance Analyst: Ensures adherence to internal and external policies.\n38. Kingsley Nwachukwu \u2013 Risk Officer: Identifies and mitigates organizational risks.\n39. Amaka Ibe \u2013 Policy Analyst: Develops and updates company policies.\n40. John Bako \u2013 Corporate Affairs Officer: Manages regulatory affairs and external relations.",
+                "tampered_line": "7. Customer Service Department\n31. Victoria Enemuo \u2013 Customer Service Officer: Handles inquiries and complaint resolution.\n32. Kenneth Ezeani \u2013 Call Center Agent: Responds to customer calls and support requests.\n33. Lydia Udoh \u2013 Technical Support Representative: Assists customers with technical issues.\n34. Francis Okon \u2013 Client Success Specialist: Ensures customers receive maximum value.\n35. Tina Osei \u2013 Service Quality Analyst: Monitors and improves customer experience."
+            },
+            {
+                "line": 15,
+                "original_line": "9. Research & Development\n41. Nneka Chukwu \u2013 R&D Associate: Supports innovation and product development.\n42. Bashiru Lawal \u2013 Product Research Analyst: Conducts market and product research.\n43. Tosin Adeyeye \u2013 Lab Technician: Assists in experiments and testing procedures.\n44. Zainab Musa \u2013 Innovation Officer: Coordinates idea generation and concept testing.\n45. Henry Obasi \u2013 Research Coordinator: Organizes research activities and documentation.",
+                "tampered_line": "8. Legal & Compliance\n36. Efe Okojie \u2013 Legal Officer: Provides legal guidance and contract review.\n37. Chidinma Agu \u2013 Compliance Analyst: Ensures adherence to internal and external policies.\n38. Kingsley Nwachukwu \u2013 Risk Officer: Identifies and mitigates organizational risks.\n39. Amaka Ibe \u2013 Policy Analyst: Develops and updates company policies.\n40. John Bako \u2013 Corporate Affairs Officer: Manages regulatory affairs and external relations."
+            },
+            {
+                "line": 16,
+                "original_line": "10. Facilities & Maintenance\n46. Ahmed Bello \u2013 Maintenance Supervisor: Oversees equipment maintenance and repairs.\n47. Josephine Asamoah \u2013 Facility Officer: Ensures building upkeep and safety standards.\n48. Obinna Udo \u2013 Electrical Technician: Handles electrical repairs and maintenance.\n49. Gloria Olorunsogo \u2013 Cleaning Supervisor: Manages janitorial staff and sanitation.\n50. Musa Abdullahi \u2013 Security Officer: Maintains premises security and access control.",
+                "tampered_line": "9. Research & Development\n41. Nneka Chukwu \u2013 R&D Associate: Supports innovation and product development.\n42. Bashiru Lawal \u2013 Product Research Analyst: Conducts market and product research.\n43. Tosin Adeyeye \u2013 Lab Technician: Assists in experiments and testing procedures.\n44. Zainab Musa \u2013 Innovation Officer: Coordinates idea generation and concept testing.\n45. Henry Obasi \u2013 Research Coordinator: Organizes research activities and documentation."
+            },
+            {
+                "line": 17,
+                "original_line": "",
+                "tampered_line": "10. Facilities & Maintenance\n46. Ahmed Bello \u2013 Maintenance Supervisor: Oversees equipment maintenance and repairs.\n47. Josephine Asamoah \u2013 Facility Officer: Ensures building upkeep and safety standards.\n48. Obinna Udo \u2013 Electrical Technician: Handles electrical repairs and maintenance.\n49. Gloria Olorunsogo \u2013 Cleaning Supervisor: Manages janitorial staff and sanitation.\n50. Musa Abdullahi \u2013 Security Officer: Maintains premises security and access control."
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-06-18T09:24:10.734212",
+        "event": "Modified file in safe folder",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": [
+            {
+                "line": 9,
+                "original_line": "3. IT & Technical Support\n11. Tunde Balogun \u2013 IT Support Technician: Provides user support and troubleshooting.\n12. Esther Afolabi \u2013 Network Administrator: Manages internal networks and security protocols.\n13. Segun Olatunji \u2013 Software Developer: Develops and maintains internal applications.\n14. Maryam Abubakar \u2013 Data Analyst: Interprets data to support decision-making.\n15. Kelvin Adeyemi \u2013 System Administrator: Maintains servers and IT infrastructure.",
+                "tampered_line": "11.  Iloduba Johnkenedy Chukwuemeka - Logistics Assistant: Coordinates transportation and inventory movement."
+            },
+            {
+                "line": 10,
+                "original_line": "4. Operations Department\n16. Chioma Obi \u2013 Operations Coordinator: Manages daily logistics and workflows.\n17. Jude Okafor \u2013 Field Operations Officer: Supervises on-site project execution.\n18. Fatima Garba \u2013 Logistics Assistant: Coordinates transportation and inventory movement.\n19. Yemi Daramola \u2013 Supply Chain Analyst: Analyzes supply chain efficiency.\n20. Suleiman Bashir \u2013 Quality Assurance Officer: Monitors process compliance and quality.",
+                "tampered_line": "3. IT & Technical Support\n11. Tunde Balogun \u2013 IT Support Technician: Provides user support and troubleshooting.\n12. Esther Afolabi \u2013 Network Administrator: Manages internal networks and security protocols.\n13. Segun Olatunji \u2013 Software Developer: Develops and maintains internal applications.\n14. Maryam Abubakar \u2013 Data Analyst: Interprets data to support decision-making.\n15. Kelvin Adeyemi \u2013 System Administrator: Maintains servers and IT infrastructure."
+            },
+            {
+                "line": 11,
+                "original_line": "5. Marketing & Communications\n21. Chika Umeh \u2013 Marketing Officer: Develops and executes marketing campaigns.\n22. Bolanle Adeoti \u2013 Social Media Manager: Manages online presence and engagement.\n23. Ifeanyi Okoro \u2013 Public Relations Officer: Handles media relations and public image.\n24. Ruth Adeniran \u2013 Content Creator: Produces digital and print content.\n25. Philip Etim \u2013 Graphic Designer: Designs branding and promotional materials.",
+                "tampered_line": "4. Operations Department\n16. Chioma Obi \u2013 Operations Coordinator: Manages daily logistics and workflows.\n17. Jude Okafor \u2013 Field Operations Officer: Supervises on-site project execution.\n18. Fatima Garba \u2013 Logistics Assistant: Coordinates transportation and inventory movement.\n19. Yemi Daramola \u2013 Supply Chain Analyst: Analyzes supply chain efficiency.\n20. Suleiman Bashir \u2013 Quality Assurance Officer: Monitors process compliance and quality."
+            },
+            {
+                "line": 12,
+                "original_line": "6. Sales Department\n26. Ngozi Ike \u2013 Sales Executive: Builds customer relationships and drives sales.\n27. Peter Mensah \u2013 Business Development Officer: Identifies new business opportunities.\n28. Gloria Nwachukwu \u2013 Client Relationship Manager: Manages key customer accounts.\n29. Samuel Olaniyan \u2013 Territory Sales Manager: Oversees sales operations in a designated area.\n30. Rebecca Akpan \u2013 Product Sales Specialist: Promotes and sells specific product lines.",
+                "tampered_line": "5. Marketing & Communications\n21. Chika Umeh \u2013 Marketing Officer: Develops and executes marketing campaigns.\n22. Bolanle Adeoti \u2013 Social Media Manager: Manages online presence and engagement.\n23. Ifeanyi Okoro \u2013 Public Relations Officer: Handles media relations and public image.\n24. Ruth Adeniran \u2013 Content Creator: Produces digital and print content.\n25. Philip Etim \u2013 Graphic Designer: Designs branding and promotional materials."
+            },
+            {
+                "line": 13,
+                "original_line": "7. Customer Service Department\n31. Victoria Enemuo \u2013 Customer Service Officer: Handles inquiries and complaint resolution.\n32. Kenneth Ezeani \u2013 Call Center Agent: Responds to customer calls and support requests.\n33. Lydia Udoh \u2013 Technical Support Representative: Assists customers with technical issues.\n34. Francis Okon \u2013 Client Success Specialist: Ensures customers receive maximum value.\n35. Tina Osei \u2013 Service Quality Analyst: Monitors and improves customer experience.",
+                "tampered_line": "6. Sales Department\n26. Ngozi Ike \u2013 Sales Executive: Builds customer relationships and drives sales.\n27. Peter Mensah \u2013 Business Development Officer: Identifies new business opportunities.\n28. Gloria Nwachukwu \u2013 Client Relationship Manager: Manages key customer accounts.\n29. Samuel Olaniyan \u2013 Territory Sales Manager: Oversees sales operations in a designated area.\n30. Rebecca Akpan \u2013 Product Sales Specialist: Promotes and sells specific product lines."
+            },
+            {
+                "line": 14,
+                "original_line": "8. Legal & Compliance\n36. Efe Okojie \u2013 Legal Officer: Provides legal guidance and contract review.\n37. Chidinma Agu \u2013 Compliance Analyst: Ensures adherence to internal and external policies.\n38. Kingsley Nwachukwu \u2013 Risk Officer: Identifies and mitigates organizational risks.\n39. Amaka Ibe \u2013 Policy Analyst: Develops and updates company policies.\n40. John Bako \u2013 Corporate Affairs Officer: Manages regulatory affairs and external relations.",
+                "tampered_line": "7. Customer Service Department\n31. Victoria Enemuo \u2013 Customer Service Officer: Handles inquiries and complaint resolution.\n32. Kenneth Ezeani \u2013 Call Center Agent: Responds to customer calls and support requests.\n33. Lydia Udoh \u2013 Technical Support Representative: Assists customers with technical issues.\n34. Francis Okon \u2013 Client Success Specialist: Ensures customers receive maximum value.\n35. Tina Osei \u2013 Service Quality Analyst: Monitors and improves customer experience."
+            },
+            {
+                "line": 15,
+                "original_line": "9. Research & Development\n41. Nneka Chukwu \u2013 R&D Associate: Supports innovation and product development.\n42. Bashiru Lawal \u2013 Product Research Analyst: Conducts market and product research.\n43. Tosin Adeyeye \u2013 Lab Technician: Assists in experiments and testing procedures.\n44. Zainab Musa \u2013 Innovation Officer: Coordinates idea generation and concept testing.\n45. Henry Obasi \u2013 Research Coordinator: Organizes research activities and documentation.",
+                "tampered_line": "8. Legal & Compliance\n36. Efe Okojie \u2013 Legal Officer: Provides legal guidance and contract review.\n37. Chidinma Agu \u2013 Compliance Analyst: Ensures adherence to internal and external policies.\n38. Kingsley Nwachukwu \u2013 Risk Officer: Identifies and mitigates organizational risks.\n39. Amaka Ibe \u2013 Policy Analyst: Develops and updates company policies.\n40. John Bako \u2013 Corporate Affairs Officer: Manages regulatory affairs and external relations."
+            },
+            {
+                "line": 16,
+                "original_line": "10. Facilities & Maintenance\n46. Ahmed Bello \u2013 Maintenance Supervisor: Oversees equipment maintenance and repairs.\n47. Josephine Asamoah \u2013 Facility Officer: Ensures building upkeep and safety standards.\n48. Obinna Udo \u2013 Electrical Technician: Handles electrical repairs and maintenance.\n49. Gloria Olorunsogo \u2013 Cleaning Supervisor: Manages janitorial staff and sanitation.\n50. Musa Abdullahi \u2013 Security Officer: Maintains premises security and access control.",
+                "tampered_line": "9. Research & Development\n41. Nneka Chukwu \u2013 R&D Associate: Supports innovation and product development.\n42. Bashiru Lawal \u2013 Product Research Analyst: Conducts market and product research.\n43. Tosin Adeyeye \u2013 Lab Technician: Assists in experiments and testing procedures.\n44. Zainab Musa \u2013 Innovation Officer: Coordinates idea generation and concept testing.\n45. Henry Obasi \u2013 Research Coordinator: Organizes research activities and documentation."
+            },
+            {
+                "line": 17,
+                "original_line": "",
+                "tampered_line": "10. Facilities & Maintenance\n46. Ahmed Bello \u2013 Maintenance Supervisor: Oversees equipment maintenance and repairs.\n47. Josephine Asamoah \u2013 Facility Officer: Ensures building upkeep and safety standards.\n48. Obinna Udo \u2013 Electrical Technician: Handles electrical repairs and maintenance.\n49. Gloria Olorunsogo \u2013 Cleaning Supervisor: Manages janitorial staff and sanitation.\n50. Musa Abdullahi \u2013 Security Officer: Maintains premises security and access control."
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-06-18T09:25:03.388003",
+        "event": "Modified file in safe folder",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": []
+    },
+    {
+        "timestamp": "2025-06-18T09:25:04.948482",
+        "event": "Modified file in safe folder",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": []
+    },
+    {
+        "timestamp": "2025-06-18T09:26:04.691953",
+        "event": "Modified file in safe folder",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": []
+    },
+    {
+        "timestamp": "2025-06-18T09:27:02.728995",
+        "event": "Modified file in safe folder",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": [
+            {
+                "line": 9,
+                "original_line": "3. IT & Technical Support\n11. Tunde Balogun \u2013 IT Support Technician: Provides user support and troubleshooting.\n12. Esther Afolabi \u2013 Network Administrator: Manages internal networks and security protocols.\n13. Segun Olatunji \u2013 Software Developer: Develops and maintains internal applications.\n14. Maryam Abubakar \u2013 Data Analyst: Interprets data to support decision-making.\n15. Kelvin Adeyemi \u2013 System Administrator: Maintains servers and IT infrastructure.",
+                "tampered_line": "11. Iloduba Johnkennedy Chukwuemeka - Logistics Assistant: Coordinates transportation and inventory movement."
+            },
+            {
+                "line": 10,
+                "original_line": "4. Operations Department\n16. Chioma Obi \u2013 Operations Coordinator: Manages daily logistics and workflows.\n17. Jude Okafor \u2013 Field Operations Officer: Supervises on-site project execution.\n18. Fatima Garba \u2013 Logistics Assistant: Coordinates transportation and inventory movement.\n19. Yemi Daramola \u2013 Supply Chain Analyst: Analyzes supply chain efficiency.\n20. Suleiman Bashir \u2013 Quality Assurance Officer: Monitors process compliance and quality.",
+                "tampered_line": "3. IT & Technical Support\n11. Tunde Balogun \u2013 IT Support Technician: Provides user support and troubleshooting.\n12. Esther Afolabi \u2013 Network Administrator: Manages internal networks and security protocols.\n13. Segun Olatunji \u2013 Software Developer: Develops and maintains internal applications.\n14. Maryam Abubakar \u2013 Data Analyst: Interprets data to support decision-making.\n15. Kelvin Adeyemi \u2013 System Administrator: Maintains servers and IT infrastructure."
+            },
+            {
+                "line": 11,
+                "original_line": "5. Marketing & Communications\n21. Chika Umeh \u2013 Marketing Officer: Develops and executes marketing campaigns.\n22. Bolanle Adeoti \u2013 Social Media Manager: Manages online presence and engagement.\n23. Ifeanyi Okoro \u2013 Public Relations Officer: Handles media relations and public image.\n24. Ruth Adeniran \u2013 Content Creator: Produces digital and print content.\n25. Philip Etim \u2013 Graphic Designer: Designs branding and promotional materials.",
+                "tampered_line": "4. Operations Department\n16. Chioma Obi \u2013 Operations Coordinator: Manages daily logistics and workflows.\n17. Jude Okafor \u2013 Field Operations Officer: Supervises on-site project execution.\n18. Fatima Garba \u2013 Logistics Assistant: Coordinates transportation and inventory movement.\n19. Yemi Daramola \u2013 Supply Chain Analyst: Analyzes supply chain efficiency.\n20. Suleiman Bashir \u2013 Quality Assurance Officer: Monitors process compliance and quality."
+            },
+            {
+                "line": 12,
+                "original_line": "6. Sales Department\n26. Ngozi Ike \u2013 Sales Executive: Builds customer relationships and drives sales.\n27. Peter Mensah \u2013 Business Development Officer: Identifies new business opportunities.\n28. Gloria Nwachukwu \u2013 Client Relationship Manager: Manages key customer accounts.\n29. Samuel Olaniyan \u2013 Territory Sales Manager: Oversees sales operations in a designated area.\n30. Rebecca Akpan \u2013 Product Sales Specialist: Promotes and sells specific product lines.",
+                "tampered_line": "5. Marketing & Communications\n21. Chika Umeh \u2013 Marketing Officer: Develops and executes marketing campaigns.\n22. Bolanle Adeoti \u2013 Social Media Manager: Manages online presence and engagement.\n23. Ifeanyi Okoro \u2013 Public Relations Officer: Handles media relations and public image.\n24. Ruth Adeniran \u2013 Content Creator: Produces digital and print content.\n25. Philip Etim \u2013 Graphic Designer: Designs branding and promotional materials."
+            },
+            {
+                "line": 13,
+                "original_line": "7. Customer Service Department\n31. Victoria Enemuo \u2013 Customer Service Officer: Handles inquiries and complaint resolution.\n32. Kenneth Ezeani \u2013 Call Center Agent: Responds to customer calls and support requests.\n33. Lydia Udoh \u2013 Technical Support Representative: Assists customers with technical issues.\n34. Francis Okon \u2013 Client Success Specialist: Ensures customers receive maximum value.\n35. Tina Osei \u2013 Service Quality Analyst: Monitors and improves customer experience.",
+                "tampered_line": "6. Sales Department\n26. Ngozi Ike \u2013 Sales Executive: Builds customer relationships and drives sales.\n27. Peter Mensah \u2013 Business Development Officer: Identifies new business opportunities.\n28. Gloria Nwachukwu \u2013 Client Relationship Manager: Manages key customer accounts.\n29. Samuel Olaniyan \u2013 Territory Sales Manager: Oversees sales operations in a designated area.\n30. Rebecca Akpan \u2013 Product Sales Specialist: Promotes and sells specific product lines."
+            },
+            {
+                "line": 14,
+                "original_line": "8. Legal & Compliance\n36. Efe Okojie \u2013 Legal Officer: Provides legal guidance and contract review.\n37. Chidinma Agu \u2013 Compliance Analyst: Ensures adherence to internal and external policies.\n38. Kingsley Nwachukwu \u2013 Risk Officer: Identifies and mitigates organizational risks.\n39. Amaka Ibe \u2013 Policy Analyst: Develops and updates company policies.\n40. John Bako \u2013 Corporate Affairs Officer: Manages regulatory affairs and external relations.",
+                "tampered_line": "7. Customer Service Department\n31. Victoria Enemuo \u2013 Customer Service Officer: Handles inquiries and complaint resolution.\n32. Kenneth Ezeani \u2013 Call Center Agent: Responds to customer calls and support requests.\n33. Lydia Udoh \u2013 Technical Support Representative: Assists customers with technical issues.\n34. Francis Okon \u2013 Client Success Specialist: Ensures customers receive maximum value.\n35. Tina Osei \u2013 Service Quality Analyst: Monitors and improves customer experience."
+            },
+            {
+                "line": 15,
+                "original_line": "9. Research & Development\n41. Nneka Chukwu \u2013 R&D Associate: Supports innovation and product development.\n42. Bashiru Lawal \u2013 Product Research Analyst: Conducts market and product research.\n43. Tosin Adeyeye \u2013 Lab Technician: Assists in experiments and testing procedures.\n44. Zainab Musa \u2013 Innovation Officer: Coordinates idea generation and concept testing.\n45. Henry Obasi \u2013 Research Coordinator: Organizes research activities and documentation.",
+                "tampered_line": "8. Legal & Compliance\n36. Efe Okojie \u2013 Legal Officer: Provides legal guidance and contract review.\n37. Chidinma Agu \u2013 Compliance Analyst: Ensures adherence to internal and external policies.\n38. Kingsley Nwachukwu \u2013 Risk Officer: Identifies and mitigates organizational risks.\n39. Amaka Ibe \u2013 Policy Analyst: Develops and updates company policies.\n40. John Bako \u2013 Corporate Affairs Officer: Manages regulatory affairs and external relations."
+            },
+            {
+                "line": 16,
+                "original_line": "10. Facilities & Maintenance\n46. Ahmed Bello \u2013 Maintenance Supervisor: Oversees equipment maintenance and repairs.\n47. Josephine Asamoah \u2013 Facility Officer: Ensures building upkeep and safety standards.\n48. Obinna Udo \u2013 Electrical Technician: Handles electrical repairs and maintenance.\n49. Gloria Olorunsogo \u2013 Cleaning Supervisor: Manages janitorial staff and sanitation.\n50. Musa Abdullahi \u2013 Security Officer: Maintains premises security and access control.",
+                "tampered_line": "9. Research & Development\n41. Nneka Chukwu \u2013 R&D Associate: Supports innovation and product development.\n42. Bashiru Lawal \u2013 Product Research Analyst: Conducts market and product research.\n43. Tosin Adeyeye \u2013 Lab Technician: Assists in experiments and testing procedures.\n44. Zainab Musa \u2013 Innovation Officer: Coordinates idea generation and concept testing.\n45. Henry Obasi \u2013 Research Coordinator: Organizes research activities and documentation."
+            },
+            {
+                "line": 17,
+                "original_line": "",
+                "tampered_line": "10. Facilities & Maintenance\n46. Ahmed Bello \u2013 Maintenance Supervisor: Oversees equipment maintenance and repairs.\n47. Josephine Asamoah \u2013 Facility Officer: Ensures building upkeep and safety standards.\n48. Obinna Udo \u2013 Electrical Technician: Handles electrical repairs and maintenance.\n49. Gloria Olorunsogo \u2013 Cleaning Supervisor: Manages janitorial staff and sanitation.\n50. Musa Abdullahi \u2013 Security Officer: Maintains premises security and access control."
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-06-18T09:31:47.755977",
+        "event": "Modified file in safe folder",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": []
+    },
+    {
+        "timestamp": "2025-06-18T09:36:21.191434",
+        "event": "Modified file in safe folder",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": [
+            {
+                "line": 9,
+                "original_line": "2. Finance & Accounting Department",
+                "tampered_line": "Iloduba Johnkennedy Chukwuemeka \u2013 Cost Accountant: Analyzes production costs and provides insights for cost control."
+            },
+            {
+                "line": 10,
+                "original_line": "Kwame Nkrumah \u2013 Senior Accountant: Responsible for financial reporting, budget management, and compliance.",
+                "tampered_line": "2. Finance & Accounting Department"
+            },
+            {
+                "line": 11,
+                "original_line": "Blessing Chukwu \u2013 Treasury Analyst: Manages cash flow, investments, and banking relationships.",
+                "tampered_line": "Kwame Nkrumah \u2013 Senior Accountant: Responsible for financial reporting, budget management, and compliance."
+            },
+            {
+                "line": 12,
+                "original_line": "David Ayodele \u2013 Cost Accountant: Analyzes production costs and provides insights for cost control.",
+                "tampered_line": "Blessing Chukwu \u2013 Treasury Analyst: Manages cash flow, investments, and banking relationships."
+            },
+            {
+                "line": 13,
+                "original_line": "Sandra Imade \u2013 Tax Specialist: Prepares and files tax returns, ensuring compliance with tax laws.",
+                "tampered_line": "David Ayodele \u2013 Cost Accountant: Analyzes production costs and provides insights for cost control."
+            },
+            {
+                "line": 14,
+                "original_line": "Tunde Bakare \u2013 Financial Controller: Oversees all accounting operations, internal controls, and audits.",
+                "tampered_line": "Sandra Imade \u2013 Tax Specialist: Prepares and files tax returns, ensuring compliance with tax laws."
+            },
+            {
+                "line": 15,
+                "original_line": "3. IT & Technical Support",
+                "tampered_line": "Tunde Bakare \u2013 Financial Controller: Oversees all accounting operations, internal controls, and audits."
+            },
+            {
+                "line": 16,
+                "original_line": "Zara Bello \u2013 Cybersecurity Analyst: Monitors systems for security breaches, investigates incidents, and implements security measures.",
+                "tampered_line": "3. IT & Technical Support"
+            },
+            {
+                "line": 17,
+                "original_line": "Kunle Adeniyi \u2013 Cloud Engineer: Designs, deploys, and manages cloud-based infrastructure and services.",
+                "tampered_line": "Zara Bello \u2013 Cybersecurity Analyst: Monitors systems for security breaches, investigates incidents, and implements security measures."
+            },
+            {
+                "line": 18,
+                "original_line": "Ngozi Okafor \u2013 UI/UX Designer: Focuses on user interface and user experience design for software applications.",
+                "tampered_line": "Kunle Adeniyi \u2013 Cloud Engineer: Designs, deploys, and manages cloud-based infrastructure and services."
+            },
+            {
+                "line": 19,
+                "original_line": "Precious Adeyemi \u2013 Database Administrator: Manages and maintains organizational databases, ensuring data availability and security.",
+                "tampered_line": "Ngozi Okafor \u2013 UI/UX Designer: Focuses on user interface and user experience design for software applications."
+            },
+            {
+                "line": 20,
+                "original_line": "Felix Osei \u2013 DevOps Engineer: Bridges the gap between development and operations, streamlining software deployment.",
+                "tampered_line": "Precious Adeyemi \u2013 Database Administrator: Manages and maintains organizational databases, ensuring data availability and security."
+            },
+            {
+                "line": 21,
+                "original_line": "4. Operations Department",
+                "tampered_line": "Felix Osei \u2013 DevOps Engineer: Bridges the gap between development and operations, streamlining software deployment."
+            },
+            {
+                "line": 22,
+                "original_line": "Daniel Obi \u2013 Logistics Manager: Oversees supply chain, warehousing, and distribution activities.",
+                "tampered_line": "4. Operations Department"
+            },
+            {
+                "line": 23,
+                "original_line": "Maryam Ali \u2013 Process Improvement Specialist: Identifies inefficiencies in workflows and implements solutions.",
+                "tampered_line": "Daniel Obi \u2013 Logistics Manager: Oversees supply chain, warehousing, and distribution activities."
+            },
+            {
+                "line": 24,
+                "original_line": "Chukwudi Eze \u2013 Production Supervisor: Manages daily production schedules, quality control, and team performance.",
+                "tampered_line": "Maryam Ali \u2013 Process Improvement Specialist: Identifies inefficiencies in workflows and implements solutions."
+            },
+            {
+                "line": 25,
+                "original_line": "Bolanle Fasina \u2013 Inventory Control Manager: Responsible for optimizing inventory levels and accuracy.",
+                "tampered_line": "Chukwudi Eze \u2013 Production Supervisor: Manages daily production schedules, quality control, and team performance."
+            },
+            {
+                "line": 26,
+                "original_line": "Ibrahim Mohammed \u2013 Supply Chain Coordinator: Liaises with suppliers and internal teams to ensure smooth material flow.",
+                "tampered_line": "Bolanle Fasina \u2013 Inventory Control Manager: Responsible for optimizing inventory levels and accuracy."
+            },
+            {
+                "line": 27,
+                "original_line": "5. Marketing & Communications",
+                "tampered_line": "Ibrahim Mohammed \u2013 Supply Chain Coordinator: Liaises with suppliers and internal teams to ensure smooth material flow."
+            },
+            {
+                "line": 28,
+                "original_line": "Amara Okoro \u2013 Digital Marketing Specialist: Develops and executes online marketing strategies, including SEO, SEM, and email campaigns.",
+                "tampered_line": "5. Marketing & Communications"
+            },
+            {
+                "line": 29,
+                "original_line": "Segun Ojo \u2013 Brand Manager: Responsible for brand identity, messaging, and market positioning.",
+                "tampered_line": "Amara Okoro \u2013 Digital Marketing Specialist: Develops and executes online marketing strategies, including SEO, SEM, and email campaigns."
+            },
+            {
+                "line": 30,
+                "original_line": "Jessica Nduka \u2013 Content Marketing Manager: Oversees the creation and distribution of valuable content to attract and retain customers.",
+                "tampered_line": "Segun Ojo \u2013 Brand Manager: Responsible for brand identity, messaging, and market positioning."
+            },
+            {
+                "line": 31,
+                "original_line": "Kelechi Duru \u2013 Event Coordinator: Plans and executes company events, webinars, and conferences.",
+                "tampered_line": "Jessica Nduka \u2013 Content Marketing Manager: Oversees the creation and distribution of valuable content to attract and retain customers."
+            },
+            {
+                "line": 32,
+                "original_line": "Linda Eke \u2013 Public Relations Manager: Manages the company's public image, media relations, and crisis communications.",
+                "tampered_line": "Kelechi Duru \u2013 Event Coordinator: Plans and executes company events, webinars, and conferences."
+            },
+            {
+                "line": 33,
+                "original_line": "6. Sales Department",
+                "tampered_line": "Linda Eke \u2013 Public Relations Manager: Manages the company's public image, media relations, and crisis communications."
+            },
+            {
+                "line": 34,
+                "original_line": "Femi Adekunle \u2013 Key Account Manager: Manages relationships with major clients and drives strategic sales initiatives.",
+                "tampered_line": "6. Sales Department"
+            },
+            {
+                "line": 35,
+                "original_line": "Chioma Obasi \u2013 Sales Operations Analyst: Supports the sales team with data analysis, reporting, and process optimization.",
+                "tampered_line": "Femi Adekunle \u2013 Key Account Manager: Manages relationships with major clients and drives strategic sales initiatives."
+            },
+            {
+                "line": 36,
+                "original_line": "Kenneth Idoko \u2013 Inside Sales Representative: Handles sales remotely, often through phone calls and emails.",
+                "tampered_line": "Chioma Obasi \u2013 Sales Operations Analyst: Supports the sales team with data analysis, reporting, and process optimization."
+            },
+            {
+                "line": 37,
+                "original_line": "Hadiza Bello \u2013 Channel Sales Manager: Develops and manages sales through partner channels.",
+                "tampered_line": "Kenneth Idoko \u2013 Inside Sales Representative: Handles sales remotely, often through phone calls and emails."
+            },
+            {
+                "line": 38,
+                "original_line": "Johnpaul Onwuka \u2013 Sales Trainer: Develops and delivers training programs to enhance the sales team's skills.",
+                "tampered_line": "Hadiza Bello \u2013 Channel Sales Manager: Develops and manages sales through partner channels."
+            },
+            {
+                "line": 39,
+                "original_line": "7. Customer Service Department",
+                "tampered_line": "Johnpaul Onwuka \u2013 Sales Trainer: Develops and delivers training programs to enhance the sales team's skills."
+            },
+            {
+                "line": 40,
+                "original_line": "Blessing Musa \u2013 Customer Experience Specialist: Focuses on improving the overall customer journey and satisfaction.",
+                "tampered_line": "7. Customer Service Department"
+            },
+            {
+                "line": 41,
+                "original_line": "Michael Udoh \u2013 Support Team Lead: Supervises and guides a team of customer service representatives.",
+                "tampered_line": "Blessing Musa \u2013 Customer Experience Specialist: Focuses on improving the overall customer journey and satisfaction."
+            },
+            {
+                "line": 42,
+                "original_line": "Ugochi Ezeala \u2013 Escalation Specialist: Handles complex customer issues and resolves elevated complaints.",
+                "tampered_line": "Michael Udoh \u2013 Support Team Lead: Supervises and guides a team of customer service representatives."
+            },
+            {
+                "line": 43,
+                "original_line": "Sarah Adamu \u2013 Live Chat Agent: Provides real-time support to customers through online chat platforms.",
+                "tampered_line": "Ugochi Ezeala \u2013 Escalation Specialist: Handles complex customer issues and resolves elevated complaints."
+            },
+            {
+                "line": 44,
+                "original_line": "David Akpan \u2013 Customer Feedback Analyst: Collects, analyzes, and reports on customer feedback to identify areas for improvement.",
+                "tampered_line": "Sarah Adamu \u2013 Live Chat Agent: Provides real-time support to customers through online chat platforms."
+            },
+            {
+                "line": 45,
+                "original_line": "8. Legal & Compliance",
+                "tampered_line": "David Akpan \u2013 Customer Feedback Analyst: Collects, analyzes, and reports on customer feedback to identify areas for improvement."
+            },
+            {
+                "line": 46,
+                "original_line": "Chiamaka Eze \u2013 Corporate Counsel: Provides legal advice on corporate governance, contracts, and regulatory matters.",
+                "tampered_line": "8. Legal & Compliance"
+            },
+            {
+                "line": 47,
+                "original_line": "Jide Obi \u2013 Compliance Officer: Ensures the company adheres to all relevant laws, regulations, and internal policies.",
+                "tampered_line": "Chiamaka Eze \u2013 Corporate Counsel: Provides legal advice on corporate governance, contracts, and regulatory matters."
+            },
+            {
+                "line": 48,
+                "original_line": "Funke Olawale \u2013 Intellectual Property Lawyer: Manages patents, trademarks, and copyrights.",
+                "tampered_line": "Jide Obi \u2013 Compliance Officer: Ensures the company adheres to all relevant laws, regulations, and internal policies."
+            },
+            {
+                "line": 49,
+                "original_line": "Emeka Nwosu \u2013 Regulatory Affairs Specialist: Liaises with government agencies and ensures compliance with industry-specific regulations.",
+                "tampered_line": "Funke Olawale \u2013 Intellectual Property Lawyer: Manages patents, trademarks, and copyrights."
+            },
+            {
+                "line": 50,
+                "original_line": "Toluwani Akinola \u2013 Data Protection Officer: Oversees data privacy and ensures compliance with data protection laws (e.g., GDPR, NDPR).",
+                "tampered_line": "Emeka Nwosu \u2013 Regulatory Affairs Specialist: Liaises with government agencies and ensures compliance with industry-specific regulations."
+            },
+            {
+                "line": 51,
+                "original_line": "9. Research & Development",
+                "tampered_line": "Toluwani Akinola \u2013 Data Protection Officer: Oversees data privacy and ensures compliance with data protection laws (e.g., GDPR, NDPR)."
+            },
+            {
+                "line": 52,
+                "original_line": "Dr. Nnamdi Eke \u2013 Lead Research Scientist: Heads research projects and drives scientific innovation.",
+                "tampered_line": "9. Research & Development"
+            },
+            {
+                "line": 53,
+                "original_line": "Aminu Ibrahim \u2013 Product Development Engineer: Designs and develops new products or improves existing ones.",
+                "tampered_line": "Dr. Nnamdi Eke \u2013 Lead Research Scientist: Heads research projects and drives scientific innovation."
+            },
+            {
+                "line": 54,
+                "original_line": "Gloria Effiong \u2013 Research Assistant: Supports research activities, data collection, and experimental procedures.",
+                "tampered_line": "Aminu Ibrahim \u2013 Product Development Engineer: Designs and develops new products or improves existing ones."
+            },
+            {
+                "line": 55,
+                "original_line": "Abdulrahman Sani \u2013 Innovation Manager: Fosters a culture of innovation and manages the ideation pipeline.",
+                "tampered_line": "Gloria Effiong \u2013 Research Assistant: Supports research activities, data collection, and experimental procedures."
+            },
+            {
+                "line": 56,
+                "original_line": "Chioma Nwachukwu \u2013 UX Researcher: Conducts research to understand user needs and behaviors for product design.",
+                "tampered_line": "Abdulrahman Sani \u2013 Innovation Manager: Fosters a culture of innovation and manages the ideation pipeline."
+            },
+            {
+                "line": 57,
+                "original_line": "10. Facilities & Maintenance",
+                "tampered_line": "Chioma Nwachukwu \u2013 UX Researcher: Conducts research to understand user needs and behaviors for product design."
+            },
+            {
+                "line": 58,
+                "original_line": "James Adebayo \u2013 Safety Officer: Ensures workplace safety, conducts risk assessments, and manages emergency procedures.",
+                "tampered_line": "10. Facilities & Maintenance"
+            },
+            {
+                "line": 59,
+                "original_line": "Esther Okon \u2013 Facilities Coordinator: Manages space planning, office moves, and maintenance schedules.",
+                "tampered_line": "James Adebayo \u2013 Safety Officer: Ensures workplace safety, conducts risk assessments, and manages emergency procedures."
+            },
+            {
+                "line": 60,
+                "original_line": "Godwin Nnaji \u2013 HVAC Technician: Installs, maintains, and repairs heating, ventilation, and air conditioning systems.",
+                "tampered_line": "Esther Okon \u2013 Facilities Coordinator: Manages space planning, office moves, and maintenance schedules."
+            },
+            {
+                "line": 61,
+                "original_line": "Patience Ekejiuba \u2013 Grounds Supervisor: Oversees the maintenance and landscaping of company grounds.",
+                "tampered_line": "Godwin Nnaji \u2013 HVAC Technician: Installs, maintains, and repairs heating, ventilation, and air conditioning systems."
+            },
+            {
+                "line": 62,
+                "original_line": "Musa Danjuma \u2013 Building Maintenance Technician: Performs general repairs and maintenance tasks around the facility.",
+                "tampered_line": "Patience Ekejiuba \u2013 Grounds Supervisor: Oversees the maintenance and landscaping of company grounds."
+            },
+            {
+                "line": 63,
+                "original_line": "",
+                "tampered_line": "Musa Danjuma \u2013 Building Maintenance Technician: Performs general repairs and maintenance tasks around the facility."
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-06-18T09:36:22.367810",
+        "event": "Modified file in safe folder",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": [
+            {
+                "line": 9,
+                "original_line": "2. Finance & Accounting Department",
+                "tampered_line": "Iloduba Johnkennedy Chukwuemeka \u2013 Cost Accountant: Analyzes production costs and provides insights for cost control."
+            },
+            {
+                "line": 10,
+                "original_line": "Kwame Nkrumah \u2013 Senior Accountant: Responsible for financial reporting, budget management, and compliance.",
+                "tampered_line": "2. Finance & Accounting Department"
+            },
+            {
+                "line": 11,
+                "original_line": "Blessing Chukwu \u2013 Treasury Analyst: Manages cash flow, investments, and banking relationships.",
+                "tampered_line": "Kwame Nkrumah \u2013 Senior Accountant: Responsible for financial reporting, budget management, and compliance."
+            },
+            {
+                "line": 12,
+                "original_line": "David Ayodele \u2013 Cost Accountant: Analyzes production costs and provides insights for cost control.",
+                "tampered_line": "Blessing Chukwu \u2013 Treasury Analyst: Manages cash flow, investments, and banking relationships."
+            },
+            {
+                "line": 13,
+                "original_line": "Sandra Imade \u2013 Tax Specialist: Prepares and files tax returns, ensuring compliance with tax laws.",
+                "tampered_line": "David Ayodele \u2013 Cost Accountant: Analyzes production costs and provides insights for cost control."
+            },
+            {
+                "line": 14,
+                "original_line": "Tunde Bakare \u2013 Financial Controller: Oversees all accounting operations, internal controls, and audits.",
+                "tampered_line": "Sandra Imade \u2013 Tax Specialist: Prepares and files tax returns, ensuring compliance with tax laws."
+            },
+            {
+                "line": 15,
+                "original_line": "3. IT & Technical Support",
+                "tampered_line": "Tunde Bakare \u2013 Financial Controller: Oversees all accounting operations, internal controls, and audits."
+            },
+            {
+                "line": 16,
+                "original_line": "Zara Bello \u2013 Cybersecurity Analyst: Monitors systems for security breaches, investigates incidents, and implements security measures.",
+                "tampered_line": "3. IT & Technical Support"
+            },
+            {
+                "line": 17,
+                "original_line": "Kunle Adeniyi \u2013 Cloud Engineer: Designs, deploys, and manages cloud-based infrastructure and services.",
+                "tampered_line": "Zara Bello \u2013 Cybersecurity Analyst: Monitors systems for security breaches, investigates incidents, and implements security measures."
+            },
+            {
+                "line": 18,
+                "original_line": "Ngozi Okafor \u2013 UI/UX Designer: Focuses on user interface and user experience design for software applications.",
+                "tampered_line": "Kunle Adeniyi \u2013 Cloud Engineer: Designs, deploys, and manages cloud-based infrastructure and services."
+            },
+            {
+                "line": 19,
+                "original_line": "Precious Adeyemi \u2013 Database Administrator: Manages and maintains organizational databases, ensuring data availability and security.",
+                "tampered_line": "Ngozi Okafor \u2013 UI/UX Designer: Focuses on user interface and user experience design for software applications."
+            },
+            {
+                "line": 20,
+                "original_line": "Felix Osei \u2013 DevOps Engineer: Bridges the gap between development and operations, streamlining software deployment.",
+                "tampered_line": "Precious Adeyemi \u2013 Database Administrator: Manages and maintains organizational databases, ensuring data availability and security."
+            },
+            {
+                "line": 21,
+                "original_line": "4. Operations Department",
+                "tampered_line": "Felix Osei \u2013 DevOps Engineer: Bridges the gap between development and operations, streamlining software deployment."
+            },
+            {
+                "line": 22,
+                "original_line": "Daniel Obi \u2013 Logistics Manager: Oversees supply chain, warehousing, and distribution activities.",
+                "tampered_line": "4. Operations Department"
+            },
+            {
+                "line": 23,
+                "original_line": "Maryam Ali \u2013 Process Improvement Specialist: Identifies inefficiencies in workflows and implements solutions.",
+                "tampered_line": "Daniel Obi \u2013 Logistics Manager: Oversees supply chain, warehousing, and distribution activities."
+            },
+            {
+                "line": 24,
+                "original_line": "Chukwudi Eze \u2013 Production Supervisor: Manages daily production schedules, quality control, and team performance.",
+                "tampered_line": "Maryam Ali \u2013 Process Improvement Specialist: Identifies inefficiencies in workflows and implements solutions."
+            },
+            {
+                "line": 25,
+                "original_line": "Bolanle Fasina \u2013 Inventory Control Manager: Responsible for optimizing inventory levels and accuracy.",
+                "tampered_line": "Chukwudi Eze \u2013 Production Supervisor: Manages daily production schedules, quality control, and team performance."
+            },
+            {
+                "line": 26,
+                "original_line": "Ibrahim Mohammed \u2013 Supply Chain Coordinator: Liaises with suppliers and internal teams to ensure smooth material flow.",
+                "tampered_line": "Bolanle Fasina \u2013 Inventory Control Manager: Responsible for optimizing inventory levels and accuracy."
+            },
+            {
+                "line": 27,
+                "original_line": "5. Marketing & Communications",
+                "tampered_line": "Ibrahim Mohammed \u2013 Supply Chain Coordinator: Liaises with suppliers and internal teams to ensure smooth material flow."
+            },
+            {
+                "line": 28,
+                "original_line": "Amara Okoro \u2013 Digital Marketing Specialist: Develops and executes online marketing strategies, including SEO, SEM, and email campaigns.",
+                "tampered_line": "5. Marketing & Communications"
+            },
+            {
+                "line": 29,
+                "original_line": "Segun Ojo \u2013 Brand Manager: Responsible for brand identity, messaging, and market positioning.",
+                "tampered_line": "Amara Okoro \u2013 Digital Marketing Specialist: Develops and executes online marketing strategies, including SEO, SEM, and email campaigns."
+            },
+            {
+                "line": 30,
+                "original_line": "Jessica Nduka \u2013 Content Marketing Manager: Oversees the creation and distribution of valuable content to attract and retain customers.",
+                "tampered_line": "Segun Ojo \u2013 Brand Manager: Responsible for brand identity, messaging, and market positioning."
+            },
+            {
+                "line": 31,
+                "original_line": "Kelechi Duru \u2013 Event Coordinator: Plans and executes company events, webinars, and conferences.",
+                "tampered_line": "Jessica Nduka \u2013 Content Marketing Manager: Oversees the creation and distribution of valuable content to attract and retain customers."
+            },
+            {
+                "line": 32,
+                "original_line": "Linda Eke \u2013 Public Relations Manager: Manages the company's public image, media relations, and crisis communications.",
+                "tampered_line": "Kelechi Duru \u2013 Event Coordinator: Plans and executes company events, webinars, and conferences."
+            },
+            {
+                "line": 33,
+                "original_line": "6. Sales Department",
+                "tampered_line": "Linda Eke \u2013 Public Relations Manager: Manages the company's public image, media relations, and crisis communications."
+            },
+            {
+                "line": 34,
+                "original_line": "Femi Adekunle \u2013 Key Account Manager: Manages relationships with major clients and drives strategic sales initiatives.",
+                "tampered_line": "6. Sales Department"
+            },
+            {
+                "line": 35,
+                "original_line": "Chioma Obasi \u2013 Sales Operations Analyst: Supports the sales team with data analysis, reporting, and process optimization.",
+                "tampered_line": "Femi Adekunle \u2013 Key Account Manager: Manages relationships with major clients and drives strategic sales initiatives."
+            },
+            {
+                "line": 36,
+                "original_line": "Kenneth Idoko \u2013 Inside Sales Representative: Handles sales remotely, often through phone calls and emails.",
+                "tampered_line": "Chioma Obasi \u2013 Sales Operations Analyst: Supports the sales team with data analysis, reporting, and process optimization."
+            },
+            {
+                "line": 37,
+                "original_line": "Hadiza Bello \u2013 Channel Sales Manager: Develops and manages sales through partner channels.",
+                "tampered_line": "Kenneth Idoko \u2013 Inside Sales Representative: Handles sales remotely, often through phone calls and emails."
+            },
+            {
+                "line": 38,
+                "original_line": "Johnpaul Onwuka \u2013 Sales Trainer: Develops and delivers training programs to enhance the sales team's skills.",
+                "tampered_line": "Hadiza Bello \u2013 Channel Sales Manager: Develops and manages sales through partner channels."
+            },
+            {
+                "line": 39,
+                "original_line": "7. Customer Service Department",
+                "tampered_line": "Johnpaul Onwuka \u2013 Sales Trainer: Develops and delivers training programs to enhance the sales team's skills."
+            },
+            {
+                "line": 40,
+                "original_line": "Blessing Musa \u2013 Customer Experience Specialist: Focuses on improving the overall customer journey and satisfaction.",
+                "tampered_line": "7. Customer Service Department"
+            },
+            {
+                "line": 41,
+                "original_line": "Michael Udoh \u2013 Support Team Lead: Supervises and guides a team of customer service representatives.",
+                "tampered_line": "Blessing Musa \u2013 Customer Experience Specialist: Focuses on improving the overall customer journey and satisfaction."
+            },
+            {
+                "line": 42,
+                "original_line": "Ugochi Ezeala \u2013 Escalation Specialist: Handles complex customer issues and resolves elevated complaints.",
+                "tampered_line": "Michael Udoh \u2013 Support Team Lead: Supervises and guides a team of customer service representatives."
+            },
+            {
+                "line": 43,
+                "original_line": "Sarah Adamu \u2013 Live Chat Agent: Provides real-time support to customers through online chat platforms.",
+                "tampered_line": "Ugochi Ezeala \u2013 Escalation Specialist: Handles complex customer issues and resolves elevated complaints."
+            },
+            {
+                "line": 44,
+                "original_line": "David Akpan \u2013 Customer Feedback Analyst: Collects, analyzes, and reports on customer feedback to identify areas for improvement.",
+                "tampered_line": "Sarah Adamu \u2013 Live Chat Agent: Provides real-time support to customers through online chat platforms."
+            },
+            {
+                "line": 45,
+                "original_line": "8. Legal & Compliance",
+                "tampered_line": "David Akpan \u2013 Customer Feedback Analyst: Collects, analyzes, and reports on customer feedback to identify areas for improvement."
+            },
+            {
+                "line": 46,
+                "original_line": "Chiamaka Eze \u2013 Corporate Counsel: Provides legal advice on corporate governance, contracts, and regulatory matters.",
+                "tampered_line": "8. Legal & Compliance"
+            },
+            {
+                "line": 47,
+                "original_line": "Jide Obi \u2013 Compliance Officer: Ensures the company adheres to all relevant laws, regulations, and internal policies.",
+                "tampered_line": "Chiamaka Eze \u2013 Corporate Counsel: Provides legal advice on corporate governance, contracts, and regulatory matters."
+            },
+            {
+                "line": 48,
+                "original_line": "Funke Olawale \u2013 Intellectual Property Lawyer: Manages patents, trademarks, and copyrights.",
+                "tampered_line": "Jide Obi \u2013 Compliance Officer: Ensures the company adheres to all relevant laws, regulations, and internal policies."
+            },
+            {
+                "line": 49,
+                "original_line": "Emeka Nwosu \u2013 Regulatory Affairs Specialist: Liaises with government agencies and ensures compliance with industry-specific regulations.",
+                "tampered_line": "Funke Olawale \u2013 Intellectual Property Lawyer: Manages patents, trademarks, and copyrights."
+            },
+            {
+                "line": 50,
+                "original_line": "Toluwani Akinola \u2013 Data Protection Officer: Oversees data privacy and ensures compliance with data protection laws (e.g., GDPR, NDPR).",
+                "tampered_line": "Emeka Nwosu \u2013 Regulatory Affairs Specialist: Liaises with government agencies and ensures compliance with industry-specific regulations."
+            },
+            {
+                "line": 51,
+                "original_line": "9. Research & Development",
+                "tampered_line": "Toluwani Akinola \u2013 Data Protection Officer: Oversees data privacy and ensures compliance with data protection laws (e.g., GDPR, NDPR)."
+            },
+            {
+                "line": 52,
+                "original_line": "Dr. Nnamdi Eke \u2013 Lead Research Scientist: Heads research projects and drives scientific innovation.",
+                "tampered_line": "9. Research & Development"
+            },
+            {
+                "line": 53,
+                "original_line": "Aminu Ibrahim \u2013 Product Development Engineer: Designs and develops new products or improves existing ones.",
+                "tampered_line": "Dr. Nnamdi Eke \u2013 Lead Research Scientist: Heads research projects and drives scientific innovation."
+            },
+            {
+                "line": 54,
+                "original_line": "Gloria Effiong \u2013 Research Assistant: Supports research activities, data collection, and experimental procedures.",
+                "tampered_line": "Aminu Ibrahim \u2013 Product Development Engineer: Designs and develops new products or improves existing ones."
+            },
+            {
+                "line": 55,
+                "original_line": "Abdulrahman Sani \u2013 Innovation Manager: Fosters a culture of innovation and manages the ideation pipeline.",
+                "tampered_line": "Gloria Effiong \u2013 Research Assistant: Supports research activities, data collection, and experimental procedures."
+            },
+            {
+                "line": 56,
+                "original_line": "Chioma Nwachukwu \u2013 UX Researcher: Conducts research to understand user needs and behaviors for product design.",
+                "tampered_line": "Abdulrahman Sani \u2013 Innovation Manager: Fosters a culture of innovation and manages the ideation pipeline."
+            },
+            {
+                "line": 57,
+                "original_line": "10. Facilities & Maintenance",
+                "tampered_line": "Chioma Nwachukwu \u2013 UX Researcher: Conducts research to understand user needs and behaviors for product design."
+            },
+            {
+                "line": 58,
+                "original_line": "James Adebayo \u2013 Safety Officer: Ensures workplace safety, conducts risk assessments, and manages emergency procedures.",
+                "tampered_line": "10. Facilities & Maintenance"
+            },
+            {
+                "line": 59,
+                "original_line": "Esther Okon \u2013 Facilities Coordinator: Manages space planning, office moves, and maintenance schedules.",
+                "tampered_line": "James Adebayo \u2013 Safety Officer: Ensures workplace safety, conducts risk assessments, and manages emergency procedures."
+            },
+            {
+                "line": 60,
+                "original_line": "Godwin Nnaji \u2013 HVAC Technician: Installs, maintains, and repairs heating, ventilation, and air conditioning systems.",
+                "tampered_line": "Esther Okon \u2013 Facilities Coordinator: Manages space planning, office moves, and maintenance schedules."
+            },
+            {
+                "line": 61,
+                "original_line": "Patience Ekejiuba \u2013 Grounds Supervisor: Oversees the maintenance and landscaping of company grounds.",
+                "tampered_line": "Godwin Nnaji \u2013 HVAC Technician: Installs, maintains, and repairs heating, ventilation, and air conditioning systems."
+            },
+            {
+                "line": 62,
+                "original_line": "Musa Danjuma \u2013 Building Maintenance Technician: Performs general repairs and maintenance tasks around the facility.",
+                "tampered_line": "Patience Ekejiuba \u2013 Grounds Supervisor: Oversees the maintenance and landscaping of company grounds."
+            },
+            {
+                "line": 63,
+                "original_line": "",
+                "tampered_line": "Musa Danjuma \u2013 Building Maintenance Technician: Performs general repairs and maintenance tasks around the facility."
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-06-18T09:37:17.528110",
+        "event": "Modified file in safe folder",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": [
+            {
+                "line": 9,
+                "original_line": "2. Finance & Accounting Department",
+                "tampered_line": "Iloduba Johnkennedy Chukwuemek \u2013 Cost Accountant: Analyzes production costs and provides insights for cost control."
+            },
+            {
+                "line": 10,
+                "original_line": "Kwame Nkrumah \u2013 Senior Accountant: Responsible for financial reporting, budget management, and compliance.",
+                "tampered_line": "2. Finance & Accounting Department"
+            },
+            {
+                "line": 11,
+                "original_line": "Blessing Chukwu \u2013 Treasury Analyst: Manages cash flow, investments, and banking relationships.",
+                "tampered_line": "Kwame Nkrumah \u2013 Senior Accountant: Responsible for financial reporting, budget management, and compliance."
+            },
+            {
+                "line": 12,
+                "original_line": "David Ayodele \u2013 Cost Accountant: Analyzes production costs and provides insights for cost control.",
+                "tampered_line": "Blessing Chukwu \u2013 Treasury Analyst: Manages cash flow, investments, and banking relationships."
+            },
+            {
+                "line": 13,
+                "original_line": "Sandra Imade \u2013 Tax Specialist: Prepares and files tax returns, ensuring compliance with tax laws.",
+                "tampered_line": "David Ayodele \u2013 Cost Accountant: Analyzes production costs and provides insights for cost control."
+            },
+            {
+                "line": 14,
+                "original_line": "Tunde Bakare \u2013 Financial Controller: Oversees all accounting operations, internal controls, and audits.",
+                "tampered_line": "Sandra Imade \u2013 Tax Specialist: Prepares and files tax returns, ensuring compliance with tax laws."
+            },
+            {
+                "line": 15,
+                "original_line": "3. IT & Technical Support",
+                "tampered_line": "Tunde Bakare \u2013 Financial Controller: Oversees all accounting operations, internal controls, and audits."
+            },
+            {
+                "line": 16,
+                "original_line": "Zara Bello \u2013 Cybersecurity Analyst: Monitors systems for security breaches, investigates incidents, and implements security measures.",
+                "tampered_line": "3. IT & Technical Support"
+            },
+            {
+                "line": 17,
+                "original_line": "Kunle Adeniyi \u2013 Cloud Engineer: Designs, deploys, and manages cloud-based infrastructure and services.",
+                "tampered_line": "Zara Bello \u2013 Cybersecurity Analyst: Monitors systems for security breaches, investigates incidents, and implements security measures."
+            },
+            {
+                "line": 18,
+                "original_line": "Ngozi Okafor \u2013 UI/UX Designer: Focuses on user interface and user experience design for software applications.",
+                "tampered_line": "Kunle Adeniyi \u2013 Cloud Engineer: Designs, deploys, and manages cloud-based infrastructure and services."
+            },
+            {
+                "line": 19,
+                "original_line": "Precious Adeyemi \u2013 Database Administrator: Manages and maintains organizational databases, ensuring data availability and security.",
+                "tampered_line": "Ngozi Okafor \u2013 UI/UX Designer: Focuses on user interface and user experience design for software applications."
+            },
+            {
+                "line": 20,
+                "original_line": "Felix Osei \u2013 DevOps Engineer: Bridges the gap between development and operations, streamlining software deployment.",
+                "tampered_line": "Precious Adeyemi \u2013 Database Administrator: Manages and maintains organizational databases, ensuring data availability and security."
+            },
+            {
+                "line": 21,
+                "original_line": "4. Operations Department",
+                "tampered_line": "Felix Osei \u2013 DevOps Engineer: Bridges the gap between development and operations, streamlining software deployment."
+            },
+            {
+                "line": 22,
+                "original_line": "Daniel Obi \u2013 Logistics Manager: Oversees supply chain, warehousing, and distribution activities.",
+                "tampered_line": "4. Operations Department"
+            },
+            {
+                "line": 23,
+                "original_line": "Maryam Ali \u2013 Process Improvement Specialist: Identifies inefficiencies in workflows and implements solutions.",
+                "tampered_line": "Daniel Obi \u2013 Logistics Manager: Oversees supply chain, warehousing, and distribution activities."
+            },
+            {
+                "line": 24,
+                "original_line": "Chukwudi Eze \u2013 Production Supervisor: Manages daily production schedules, quality control, and team performance.",
+                "tampered_line": "Maryam Ali \u2013 Process Improvement Specialist: Identifies inefficiencies in workflows and implements solutions."
+            },
+            {
+                "line": 25,
+                "original_line": "Bolanle Fasina \u2013 Inventory Control Manager: Responsible for optimizing inventory levels and accuracy.",
+                "tampered_line": "Chukwudi Eze \u2013 Production Supervisor: Manages daily production schedules, quality control, and team performance."
+            },
+            {
+                "line": 26,
+                "original_line": "Ibrahim Mohammed \u2013 Supply Chain Coordinator: Liaises with suppliers and internal teams to ensure smooth material flow.",
+                "tampered_line": "Bolanle Fasina \u2013 Inventory Control Manager: Responsible for optimizing inventory levels and accuracy."
+            },
+            {
+                "line": 27,
+                "original_line": "5. Marketing & Communications",
+                "tampered_line": "Ibrahim Mohammed \u2013 Supply Chain Coordinator: Liaises with suppliers and internal teams to ensure smooth material flow."
+            },
+            {
+                "line": 28,
+                "original_line": "Amara Okoro \u2013 Digital Marketing Specialist: Develops and executes online marketing strategies, including SEO, SEM, and email campaigns.",
+                "tampered_line": "5. Marketing & Communications"
+            },
+            {
+                "line": 29,
+                "original_line": "Segun Ojo \u2013 Brand Manager: Responsible for brand identity, messaging, and market positioning.",
+                "tampered_line": "Amara Okoro \u2013 Digital Marketing Specialist: Develops and executes online marketing strategies, including SEO, SEM, and email campaigns."
+            },
+            {
+                "line": 30,
+                "original_line": "Jessica Nduka \u2013 Content Marketing Manager: Oversees the creation and distribution of valuable content to attract and retain customers.",
+                "tampered_line": "Segun Ojo \u2013 Brand Manager: Responsible for brand identity, messaging, and market positioning."
+            },
+            {
+                "line": 31,
+                "original_line": "Kelechi Duru \u2013 Event Coordinator: Plans and executes company events, webinars, and conferences.",
+                "tampered_line": "Jessica Nduka \u2013 Content Marketing Manager: Oversees the creation and distribution of valuable content to attract and retain customers."
+            },
+            {
+                "line": 32,
+                "original_line": "Linda Eke \u2013 Public Relations Manager: Manages the company's public image, media relations, and crisis communications.",
+                "tampered_line": "Kelechi Duru \u2013 Event Coordinator: Plans and executes company events, webinars, and conferences."
+            },
+            {
+                "line": 33,
+                "original_line": "6. Sales Department",
+                "tampered_line": "Linda Eke \u2013 Public Relations Manager: Manages the company's public image, media relations, and crisis communications."
+            },
+            {
+                "line": 34,
+                "original_line": "Femi Adekunle \u2013 Key Account Manager: Manages relationships with major clients and drives strategic sales initiatives.",
+                "tampered_line": "6. Sales Department"
+            },
+            {
+                "line": 35,
+                "original_line": "Chioma Obasi \u2013 Sales Operations Analyst: Supports the sales team with data analysis, reporting, and process optimization.",
+                "tampered_line": "Femi Adekunle \u2013 Key Account Manager: Manages relationships with major clients and drives strategic sales initiatives."
+            },
+            {
+                "line": 36,
+                "original_line": "Kenneth Idoko \u2013 Inside Sales Representative: Handles sales remotely, often through phone calls and emails.",
+                "tampered_line": "Chioma Obasi \u2013 Sales Operations Analyst: Supports the sales team with data analysis, reporting, and process optimization."
+            },
+            {
+                "line": 37,
+                "original_line": "Hadiza Bello \u2013 Channel Sales Manager: Develops and manages sales through partner channels.",
+                "tampered_line": "Kenneth Idoko \u2013 Inside Sales Representative: Handles sales remotely, often through phone calls and emails."
+            },
+            {
+                "line": 38,
+                "original_line": "Johnpaul Onwuka \u2013 Sales Trainer: Develops and delivers training programs to enhance the sales team's skills.",
+                "tampered_line": "Hadiza Bello \u2013 Channel Sales Manager: Develops and manages sales through partner channels."
+            },
+            {
+                "line": 39,
+                "original_line": "7. Customer Service Department",
+                "tampered_line": "Johnpaul Onwuka \u2013 Sales Trainer: Develops and delivers training programs to enhance the sales team's skills."
+            },
+            {
+                "line": 40,
+                "original_line": "Blessing Musa \u2013 Customer Experience Specialist: Focuses on improving the overall customer journey and satisfaction.",
+                "tampered_line": "7. Customer Service Department"
+            },
+            {
+                "line": 41,
+                "original_line": "Michael Udoh \u2013 Support Team Lead: Supervises and guides a team of customer service representatives.",
+                "tampered_line": "Blessing Musa \u2013 Customer Experience Specialist: Focuses on improving the overall customer journey and satisfaction."
+            },
+            {
+                "line": 42,
+                "original_line": "Ugochi Ezeala \u2013 Escalation Specialist: Handles complex customer issues and resolves elevated complaints.",
+                "tampered_line": "Michael Udoh \u2013 Support Team Lead: Supervises and guides a team of customer service representatives."
+            },
+            {
+                "line": 43,
+                "original_line": "Sarah Adamu \u2013 Live Chat Agent: Provides real-time support to customers through online chat platforms.",
+                "tampered_line": "Ugochi Ezeala \u2013 Escalation Specialist: Handles complex customer issues and resolves elevated complaints."
+            },
+            {
+                "line": 44,
+                "original_line": "David Akpan \u2013 Customer Feedback Analyst: Collects, analyzes, and reports on customer feedback to identify areas for improvement.",
+                "tampered_line": "Sarah Adamu \u2013 Live Chat Agent: Provides real-time support to customers through online chat platforms."
+            },
+            {
+                "line": 45,
+                "original_line": "8. Legal & Compliance",
+                "tampered_line": "David Akpan \u2013 Customer Feedback Analyst: Collects, analyzes, and reports on customer feedback to identify areas for improvement."
+            },
+            {
+                "line": 46,
+                "original_line": "Chiamaka Eze \u2013 Corporate Counsel: Provides legal advice on corporate governance, contracts, and regulatory matters.",
+                "tampered_line": "8. Legal & Compliance"
+            },
+            {
+                "line": 47,
+                "original_line": "Jide Obi \u2013 Compliance Officer: Ensures the company adheres to all relevant laws, regulations, and internal policies.",
+                "tampered_line": "Chiamaka Eze \u2013 Corporate Counsel: Provides legal advice on corporate governance, contracts, and regulatory matters."
+            },
+            {
+                "line": 48,
+                "original_line": "Funke Olawale \u2013 Intellectual Property Lawyer: Manages patents, trademarks, and copyrights.",
+                "tampered_line": "Jide Obi \u2013 Compliance Officer: Ensures the company adheres to all relevant laws, regulations, and internal policies."
+            },
+            {
+                "line": 49,
+                "original_line": "Emeka Nwosu \u2013 Regulatory Affairs Specialist: Liaises with government agencies and ensures compliance with industry-specific regulations.",
+                "tampered_line": "Funke Olawale \u2013 Intellectual Property Lawyer: Manages patents, trademarks, and copyrights."
+            },
+            {
+                "line": 50,
+                "original_line": "Toluwani Akinola \u2013 Data Protection Officer: Oversees data privacy and ensures compliance with data protection laws (e.g., GDPR, NDPR).",
+                "tampered_line": "Emeka Nwosu \u2013 Regulatory Affairs Specialist: Liaises with government agencies and ensures compliance with industry-specific regulations."
+            },
+            {
+                "line": 51,
+                "original_line": "9. Research & Development",
+                "tampered_line": "Toluwani Akinola \u2013 Data Protection Officer: Oversees data privacy and ensures compliance with data protection laws (e.g., GDPR, NDPR)."
+            },
+            {
+                "line": 52,
+                "original_line": "Dr. Nnamdi Eke \u2013 Lead Research Scientist: Heads research projects and drives scientific innovation.",
+                "tampered_line": "9. Research & Development"
+            },
+            {
+                "line": 53,
+                "original_line": "Aminu Ibrahim \u2013 Product Development Engineer: Designs and develops new products or improves existing ones.",
+                "tampered_line": "Dr. Nnamdi Eke \u2013 Lead Research Scientist: Heads research projects and drives scientific innovation."
+            },
+            {
+                "line": 54,
+                "original_line": "Gloria Effiong \u2013 Research Assistant: Supports research activities, data collection, and experimental procedures.",
+                "tampered_line": "Aminu Ibrahim \u2013 Product Development Engineer: Designs and develops new products or improves existing ones."
+            },
+            {
+                "line": 55,
+                "original_line": "Abdulrahman Sani \u2013 Innovation Manager: Fosters a culture of innovation and manages the ideation pipeline.",
+                "tampered_line": "Gloria Effiong \u2013 Research Assistant: Supports research activities, data collection, and experimental procedures."
+            },
+            {
+                "line": 56,
+                "original_line": "Chioma Nwachukwu \u2013 UX Researcher: Conducts research to understand user needs and behaviors for product design.",
+                "tampered_line": "Abdulrahman Sani \u2013 Innovation Manager: Fosters a culture of innovation and manages the ideation pipeline."
+            },
+            {
+                "line": 57,
+                "original_line": "10. Facilities & Maintenance",
+                "tampered_line": "Chioma Nwachukwu \u2013 UX Researcher: Conducts research to understand user needs and behaviors for product design."
+            },
+            {
+                "line": 58,
+                "original_line": "James Adebayo \u2013 Safety Officer: Ensures workplace safety, conducts risk assessments, and manages emergency procedures.",
+                "tampered_line": "10. Facilities & Maintenance"
+            },
+            {
+                "line": 59,
+                "original_line": "Esther Okon \u2013 Facilities Coordinator: Manages space planning, office moves, and maintenance schedules.",
+                "tampered_line": "James Adebayo \u2013 Safety Officer: Ensures workplace safety, conducts risk assessments, and manages emergency procedures."
+            },
+            {
+                "line": 60,
+                "original_line": "Godwin Nnaji \u2013 HVAC Technician: Installs, maintains, and repairs heating, ventilation, and air conditioning systems.",
+                "tampered_line": "Esther Okon \u2013 Facilities Coordinator: Manages space planning, office moves, and maintenance schedules."
+            },
+            {
+                "line": 61,
+                "original_line": "Patience Ekejiuba \u2013 Grounds Supervisor: Oversees the maintenance and landscaping of company grounds.",
+                "tampered_line": "Godwin Nnaji \u2013 HVAC Technician: Installs, maintains, and repairs heating, ventilation, and air conditioning systems."
+            },
+            {
+                "line": 62,
+                "original_line": "Musa Danjuma \u2013 Building Maintenance Technician: Performs general repairs and maintenance tasks around the facility.",
+                "tampered_line": "Patience Ekejiuba \u2013 Grounds Supervisor: Oversees the maintenance and landscaping of company grounds."
+            },
+            {
+                "line": 63,
+                "original_line": "",
+                "tampered_line": "Musa Danjuma \u2013 Building Maintenance Technician: Performs general repairs and maintenance tasks around the facility."
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-06-18T09:37:17.530802",
+        "event": "Modified file in safe folder",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": [
+            {
+                "line": 9,
+                "original_line": "2. Finance & Accounting Department",
+                "tampered_line": "Iloduba Johnkennedy Chukwuemek \u2013 Cost Accountant: Analyzes production costs and provides insights for cost control."
+            },
+            {
+                "line": 10,
+                "original_line": "Kwame Nkrumah \u2013 Senior Accountant: Responsible for financial reporting, budget management, and compliance.",
+                "tampered_line": "2. Finance & Accounting Department"
+            },
+            {
+                "line": 11,
+                "original_line": "Blessing Chukwu \u2013 Treasury Analyst: Manages cash flow, investments, and banking relationships.",
+                "tampered_line": "Kwame Nkrumah \u2013 Senior Accountant: Responsible for financial reporting, budget management, and compliance."
+            },
+            {
+                "line": 12,
+                "original_line": "David Ayodele \u2013 Cost Accountant: Analyzes production costs and provides insights for cost control.",
+                "tampered_line": "Blessing Chukwu \u2013 Treasury Analyst: Manages cash flow, investments, and banking relationships."
+            },
+            {
+                "line": 13,
+                "original_line": "Sandra Imade \u2013 Tax Specialist: Prepares and files tax returns, ensuring compliance with tax laws.",
+                "tampered_line": "David Ayodele \u2013 Cost Accountant: Analyzes production costs and provides insights for cost control."
+            },
+            {
+                "line": 14,
+                "original_line": "Tunde Bakare \u2013 Financial Controller: Oversees all accounting operations, internal controls, and audits.",
+                "tampered_line": "Sandra Imade \u2013 Tax Specialist: Prepares and files tax returns, ensuring compliance with tax laws."
+            },
+            {
+                "line": 15,
+                "original_line": "3. IT & Technical Support",
+                "tampered_line": "Tunde Bakare \u2013 Financial Controller: Oversees all accounting operations, internal controls, and audits."
+            },
+            {
+                "line": 16,
+                "original_line": "Zara Bello \u2013 Cybersecurity Analyst: Monitors systems for security breaches, investigates incidents, and implements security measures.",
+                "tampered_line": "3. IT & Technical Support"
+            },
+            {
+                "line": 17,
+                "original_line": "Kunle Adeniyi \u2013 Cloud Engineer: Designs, deploys, and manages cloud-based infrastructure and services.",
+                "tampered_line": "Zara Bello \u2013 Cybersecurity Analyst: Monitors systems for security breaches, investigates incidents, and implements security measures."
+            },
+            {
+                "line": 18,
+                "original_line": "Ngozi Okafor \u2013 UI/UX Designer: Focuses on user interface and user experience design for software applications.",
+                "tampered_line": "Kunle Adeniyi \u2013 Cloud Engineer: Designs, deploys, and manages cloud-based infrastructure and services."
+            },
+            {
+                "line": 19,
+                "original_line": "Precious Adeyemi \u2013 Database Administrator: Manages and maintains organizational databases, ensuring data availability and security.",
+                "tampered_line": "Ngozi Okafor \u2013 UI/UX Designer: Focuses on user interface and user experience design for software applications."
+            },
+            {
+                "line": 20,
+                "original_line": "Felix Osei \u2013 DevOps Engineer: Bridges the gap between development and operations, streamlining software deployment.",
+                "tampered_line": "Precious Adeyemi \u2013 Database Administrator: Manages and maintains organizational databases, ensuring data availability and security."
+            },
+            {
+                "line": 21,
+                "original_line": "4. Operations Department",
+                "tampered_line": "Felix Osei \u2013 DevOps Engineer: Bridges the gap between development and operations, streamlining software deployment."
+            },
+            {
+                "line": 22,
+                "original_line": "Daniel Obi \u2013 Logistics Manager: Oversees supply chain, warehousing, and distribution activities.",
+                "tampered_line": "4. Operations Department"
+            },
+            {
+                "line": 23,
+                "original_line": "Maryam Ali \u2013 Process Improvement Specialist: Identifies inefficiencies in workflows and implements solutions.",
+                "tampered_line": "Daniel Obi \u2013 Logistics Manager: Oversees supply chain, warehousing, and distribution activities."
+            },
+            {
+                "line": 24,
+                "original_line": "Chukwudi Eze \u2013 Production Supervisor: Manages daily production schedules, quality control, and team performance.",
+                "tampered_line": "Maryam Ali \u2013 Process Improvement Specialist: Identifies inefficiencies in workflows and implements solutions."
+            },
+            {
+                "line": 25,
+                "original_line": "Bolanle Fasina \u2013 Inventory Control Manager: Responsible for optimizing inventory levels and accuracy.",
+                "tampered_line": "Chukwudi Eze \u2013 Production Supervisor: Manages daily production schedules, quality control, and team performance."
+            },
+            {
+                "line": 26,
+                "original_line": "Ibrahim Mohammed \u2013 Supply Chain Coordinator: Liaises with suppliers and internal teams to ensure smooth material flow.",
+                "tampered_line": "Bolanle Fasina \u2013 Inventory Control Manager: Responsible for optimizing inventory levels and accuracy."
+            },
+            {
+                "line": 27,
+                "original_line": "5. Marketing & Communications",
+                "tampered_line": "Ibrahim Mohammed \u2013 Supply Chain Coordinator: Liaises with suppliers and internal teams to ensure smooth material flow."
+            },
+            {
+                "line": 28,
+                "original_line": "Amara Okoro \u2013 Digital Marketing Specialist: Develops and executes online marketing strategies, including SEO, SEM, and email campaigns.",
+                "tampered_line": "5. Marketing & Communications"
+            },
+            {
+                "line": 29,
+                "original_line": "Segun Ojo \u2013 Brand Manager: Responsible for brand identity, messaging, and market positioning.",
+                "tampered_line": "Amara Okoro \u2013 Digital Marketing Specialist: Develops and executes online marketing strategies, including SEO, SEM, and email campaigns."
+            },
+            {
+                "line": 30,
+                "original_line": "Jessica Nduka \u2013 Content Marketing Manager: Oversees the creation and distribution of valuable content to attract and retain customers.",
+                "tampered_line": "Segun Ojo \u2013 Brand Manager: Responsible for brand identity, messaging, and market positioning."
+            },
+            {
+                "line": 31,
+                "original_line": "Kelechi Duru \u2013 Event Coordinator: Plans and executes company events, webinars, and conferences.",
+                "tampered_line": "Jessica Nduka \u2013 Content Marketing Manager: Oversees the creation and distribution of valuable content to attract and retain customers."
+            },
+            {
+                "line": 32,
+                "original_line": "Linda Eke \u2013 Public Relations Manager: Manages the company's public image, media relations, and crisis communications.",
+                "tampered_line": "Kelechi Duru \u2013 Event Coordinator: Plans and executes company events, webinars, and conferences."
+            },
+            {
+                "line": 33,
+                "original_line": "6. Sales Department",
+                "tampered_line": "Linda Eke \u2013 Public Relations Manager: Manages the company's public image, media relations, and crisis communications."
+            },
+            {
+                "line": 34,
+                "original_line": "Femi Adekunle \u2013 Key Account Manager: Manages relationships with major clients and drives strategic sales initiatives.",
+                "tampered_line": "6. Sales Department"
+            },
+            {
+                "line": 35,
+                "original_line": "Chioma Obasi \u2013 Sales Operations Analyst: Supports the sales team with data analysis, reporting, and process optimization.",
+                "tampered_line": "Femi Adekunle \u2013 Key Account Manager: Manages relationships with major clients and drives strategic sales initiatives."
+            },
+            {
+                "line": 36,
+                "original_line": "Kenneth Idoko \u2013 Inside Sales Representative: Handles sales remotely, often through phone calls and emails.",
+                "tampered_line": "Chioma Obasi \u2013 Sales Operations Analyst: Supports the sales team with data analysis, reporting, and process optimization."
+            },
+            {
+                "line": 37,
+                "original_line": "Hadiza Bello \u2013 Channel Sales Manager: Develops and manages sales through partner channels.",
+                "tampered_line": "Kenneth Idoko \u2013 Inside Sales Representative: Handles sales remotely, often through phone calls and emails."
+            },
+            {
+                "line": 38,
+                "original_line": "Johnpaul Onwuka \u2013 Sales Trainer: Develops and delivers training programs to enhance the sales team's skills.",
+                "tampered_line": "Hadiza Bello \u2013 Channel Sales Manager: Develops and manages sales through partner channels."
+            },
+            {
+                "line": 39,
+                "original_line": "7. Customer Service Department",
+                "tampered_line": "Johnpaul Onwuka \u2013 Sales Trainer: Develops and delivers training programs to enhance the sales team's skills."
+            },
+            {
+                "line": 40,
+                "original_line": "Blessing Musa \u2013 Customer Experience Specialist: Focuses on improving the overall customer journey and satisfaction.",
+                "tampered_line": "7. Customer Service Department"
+            },
+            {
+                "line": 41,
+                "original_line": "Michael Udoh \u2013 Support Team Lead: Supervises and guides a team of customer service representatives.",
+                "tampered_line": "Blessing Musa \u2013 Customer Experience Specialist: Focuses on improving the overall customer journey and satisfaction."
+            },
+            {
+                "line": 42,
+                "original_line": "Ugochi Ezeala \u2013 Escalation Specialist: Handles complex customer issues and resolves elevated complaints.",
+                "tampered_line": "Michael Udoh \u2013 Support Team Lead: Supervises and guides a team of customer service representatives."
+            },
+            {
+                "line": 43,
+                "original_line": "Sarah Adamu \u2013 Live Chat Agent: Provides real-time support to customers through online chat platforms.",
+                "tampered_line": "Ugochi Ezeala \u2013 Escalation Specialist: Handles complex customer issues and resolves elevated complaints."
+            },
+            {
+                "line": 44,
+                "original_line": "David Akpan \u2013 Customer Feedback Analyst: Collects, analyzes, and reports on customer feedback to identify areas for improvement.",
+                "tampered_line": "Sarah Adamu \u2013 Live Chat Agent: Provides real-time support to customers through online chat platforms."
+            },
+            {
+                "line": 45,
+                "original_line": "8. Legal & Compliance",
+                "tampered_line": "David Akpan \u2013 Customer Feedback Analyst: Collects, analyzes, and reports on customer feedback to identify areas for improvement."
+            },
+            {
+                "line": 46,
+                "original_line": "Chiamaka Eze \u2013 Corporate Counsel: Provides legal advice on corporate governance, contracts, and regulatory matters.",
+                "tampered_line": "8. Legal & Compliance"
+            },
+            {
+                "line": 47,
+                "original_line": "Jide Obi \u2013 Compliance Officer: Ensures the company adheres to all relevant laws, regulations, and internal policies.",
+                "tampered_line": "Chiamaka Eze \u2013 Corporate Counsel: Provides legal advice on corporate governance, contracts, and regulatory matters."
+            },
+            {
+                "line": 48,
+                "original_line": "Funke Olawale \u2013 Intellectual Property Lawyer: Manages patents, trademarks, and copyrights.",
+                "tampered_line": "Jide Obi \u2013 Compliance Officer: Ensures the company adheres to all relevant laws, regulations, and internal policies."
+            },
+            {
+                "line": 49,
+                "original_line": "Emeka Nwosu \u2013 Regulatory Affairs Specialist: Liaises with government agencies and ensures compliance with industry-specific regulations.",
+                "tampered_line": "Funke Olawale \u2013 Intellectual Property Lawyer: Manages patents, trademarks, and copyrights."
+            },
+            {
+                "line": 50,
+                "original_line": "Toluwani Akinola \u2013 Data Protection Officer: Oversees data privacy and ensures compliance with data protection laws (e.g., GDPR, NDPR).",
+                "tampered_line": "Emeka Nwosu \u2013 Regulatory Affairs Specialist: Liaises with government agencies and ensures compliance with industry-specific regulations."
+            },
+            {
+                "line": 51,
+                "original_line": "9. Research & Development",
+                "tampered_line": "Toluwani Akinola \u2013 Data Protection Officer: Oversees data privacy and ensures compliance with data protection laws (e.g., GDPR, NDPR)."
+            },
+            {
+                "line": 52,
+                "original_line": "Dr. Nnamdi Eke \u2013 Lead Research Scientist: Heads research projects and drives scientific innovation.",
+                "tampered_line": "9. Research & Development"
+            },
+            {
+                "line": 53,
+                "original_line": "Aminu Ibrahim \u2013 Product Development Engineer: Designs and develops new products or improves existing ones.",
+                "tampered_line": "Dr. Nnamdi Eke \u2013 Lead Research Scientist: Heads research projects and drives scientific innovation."
+            },
+            {
+                "line": 54,
+                "original_line": "Gloria Effiong \u2013 Research Assistant: Supports research activities, data collection, and experimental procedures.",
+                "tampered_line": "Aminu Ibrahim \u2013 Product Development Engineer: Designs and develops new products or improves existing ones."
+            },
+            {
+                "line": 55,
+                "original_line": "Abdulrahman Sani \u2013 Innovation Manager: Fosters a culture of innovation and manages the ideation pipeline.",
+                "tampered_line": "Gloria Effiong \u2013 Research Assistant: Supports research activities, data collection, and experimental procedures."
+            },
+            {
+                "line": 56,
+                "original_line": "Chioma Nwachukwu \u2013 UX Researcher: Conducts research to understand user needs and behaviors for product design.",
+                "tampered_line": "Abdulrahman Sani \u2013 Innovation Manager: Fosters a culture of innovation and manages the ideation pipeline."
+            },
+            {
+                "line": 57,
+                "original_line": "10. Facilities & Maintenance",
+                "tampered_line": "Chioma Nwachukwu \u2013 UX Researcher: Conducts research to understand user needs and behaviors for product design."
+            },
+            {
+                "line": 58,
+                "original_line": "James Adebayo \u2013 Safety Officer: Ensures workplace safety, conducts risk assessments, and manages emergency procedures.",
+                "tampered_line": "10. Facilities & Maintenance"
+            },
+            {
+                "line": 59,
+                "original_line": "Esther Okon \u2013 Facilities Coordinator: Manages space planning, office moves, and maintenance schedules.",
+                "tampered_line": "James Adebayo \u2013 Safety Officer: Ensures workplace safety, conducts risk assessments, and manages emergency procedures."
+            },
+            {
+                "line": 60,
+                "original_line": "Godwin Nnaji \u2013 HVAC Technician: Installs, maintains, and repairs heating, ventilation, and air conditioning systems.",
+                "tampered_line": "Esther Okon \u2013 Facilities Coordinator: Manages space planning, office moves, and maintenance schedules."
+            },
+            {
+                "line": 61,
+                "original_line": "Patience Ekejiuba \u2013 Grounds Supervisor: Oversees the maintenance and landscaping of company grounds.",
+                "tampered_line": "Godwin Nnaji \u2013 HVAC Technician: Installs, maintains, and repairs heating, ventilation, and air conditioning systems."
+            },
+            {
+                "line": 62,
+                "original_line": "Musa Danjuma \u2013 Building Maintenance Technician: Performs general repairs and maintenance tasks around the facility.",
+                "tampered_line": "Patience Ekejiuba \u2013 Grounds Supervisor: Oversees the maintenance and landscaping of company grounds."
+            },
+            {
+                "line": 63,
+                "original_line": "",
+                "tampered_line": "Musa Danjuma \u2013 Building Maintenance Technician: Performs general repairs and maintenance tasks around the facility."
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-06-18T09:41:08.037008",
+        "event": "Modified file in safe folder",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": [
+            {
+                "line": 9,
+                "original_line": "2. Finance & Accounting Department",
+                "tampered_line": "Iloduba Johnkennedy Chukwuemeka \u2013 Cost Accountant: Analyzes production costs and provides insights for cost control."
+            },
+            {
+                "line": 10,
+                "original_line": "Kwame Nkrumah \u2013 Senior Accountant: Responsible for financial reporting, budget management, and compliance.",
+                "tampered_line": "2. Finance & Accounting Department"
+            },
+            {
+                "line": 11,
+                "original_line": "Blessing Chukwu \u2013 Treasury Analyst: Manages cash flow, investments, and banking relationships.",
+                "tampered_line": "Kwame Nkrumah \u2013 Senior Accountant: Responsible for financial reporting, budget management, and compliance."
+            },
+            {
+                "line": 12,
+                "original_line": "David Ayodele \u2013 Cost Accountant: Analyzes production costs and provides insights for cost control.",
+                "tampered_line": "Blessing Chukwu \u2013 Treasury Analyst: Manages cash flow, investments, and banking relationships."
+            },
+            {
+                "line": 13,
+                "original_line": "Sandra Imade \u2013 Tax Specialist: Prepares and files tax returns, ensuring compliance with tax laws.",
+                "tampered_line": "David Ayodele \u2013 Cost Accountant: Analyzes production costs and provides insights for cost control."
+            },
+            {
+                "line": 14,
+                "original_line": "Tunde Bakare \u2013 Financial Controller: Oversees all accounting operations, internal controls, and audits.",
+                "tampered_line": "Sandra Imade \u2013 Tax Specialist: Prepares and files tax returns, ensuring compliance with tax laws."
+            },
+            {
+                "line": 15,
+                "original_line": "3. IT & Technical Support",
+                "tampered_line": "Tunde Bakare \u2013 Financial Controller: Oversees all accounting operations, internal controls, and audits."
+            },
+            {
+                "line": 16,
+                "original_line": "Zara Bello \u2013 Cybersecurity Analyst: Monitors systems for security breaches, investigates incidents, and implements security measures.",
+                "tampered_line": "3. IT & Technical Support"
+            },
+            {
+                "line": 17,
+                "original_line": "Kunle Adeniyi \u2013 Cloud Engineer: Designs, deploys, and manages cloud-based infrastructure and services.",
+                "tampered_line": "Zara Bello \u2013 Cybersecurity Analyst: Monitors systems for security breaches, investigates incidents, and implements security measures."
+            },
+            {
+                "line": 18,
+                "original_line": "Ngozi Okafor \u2013 UI/UX Designer: Focuses on user interface and user experience design for software applications.",
+                "tampered_line": "Kunle Adeniyi \u2013 Cloud Engineer: Designs, deploys, and manages cloud-based infrastructure and services."
+            },
+            {
+                "line": 19,
+                "original_line": "Precious Adeyemi \u2013 Database Administrator: Manages and maintains organizational databases, ensuring data availability and security.",
+                "tampered_line": "Ngozi Okafor \u2013 UI/UX Designer: Focuses on user interface and user experience design for software applications."
+            },
+            {
+                "line": 20,
+                "original_line": "Felix Osei \u2013 DevOps Engineer: Bridges the gap between development and operations, streamlining software deployment.",
+                "tampered_line": "Precious Adeyemi \u2013 Database Administrator: Manages and maintains organizational databases, ensuring data availability and security."
+            },
+            {
+                "line": 21,
+                "original_line": "4. Operations Department",
+                "tampered_line": "Felix Osei \u2013 DevOps Engineer: Bridges the gap between development and operations, streamlining software deployment."
+            },
+            {
+                "line": 22,
+                "original_line": "Daniel Obi \u2013 Logistics Manager: Oversees supply chain, warehousing, and distribution activities.",
+                "tampered_line": "4. Operations Department"
+            },
+            {
+                "line": 23,
+                "original_line": "Maryam Ali \u2013 Process Improvement Specialist: Identifies inefficiencies in workflows and implements solutions.",
+                "tampered_line": "Daniel Obi \u2013 Logistics Manager: Oversees supply chain, warehousing, and distribution activities."
+            },
+            {
+                "line": 24,
+                "original_line": "Chukwudi Eze \u2013 Production Supervisor: Manages daily production schedules, quality control, and team performance.",
+                "tampered_line": "Maryam Ali \u2013 Process Improvement Specialist: Identifies inefficiencies in workflows and implements solutions."
+            },
+            {
+                "line": 25,
+                "original_line": "Bolanle Fasina \u2013 Inventory Control Manager: Responsible for optimizing inventory levels and accuracy.",
+                "tampered_line": "Chukwudi Eze \u2013 Production Supervisor: Manages daily production schedules, quality control, and team performance."
+            },
+            {
+                "line": 26,
+                "original_line": "Ibrahim Mohammed \u2013 Supply Chain Coordinator: Liaises with suppliers and internal teams to ensure smooth material flow.",
+                "tampered_line": "Bolanle Fasina \u2013 Inventory Control Manager: Responsible for optimizing inventory levels and accuracy."
+            },
+            {
+                "line": 27,
+                "original_line": "5. Marketing & Communications",
+                "tampered_line": "Ibrahim Mohammed \u2013 Supply Chain Coordinator: Liaises with suppliers and internal teams to ensure smooth material flow."
+            },
+            {
+                "line": 28,
+                "original_line": "Amara Okoro \u2013 Digital Marketing Specialist: Develops and executes online marketing strategies, including SEO, SEM, and email campaigns.",
+                "tampered_line": "5. Marketing & Communications"
+            },
+            {
+                "line": 29,
+                "original_line": "Segun Ojo \u2013 Brand Manager: Responsible for brand identity, messaging, and market positioning.",
+                "tampered_line": "Amara Okoro \u2013 Digital Marketing Specialist: Develops and executes online marketing strategies, including SEO, SEM, and email campaigns."
+            },
+            {
+                "line": 30,
+                "original_line": "Jessica Nduka \u2013 Content Marketing Manager: Oversees the creation and distribution of valuable content to attract and retain customers.",
+                "tampered_line": "Segun Ojo \u2013 Brand Manager: Responsible for brand identity, messaging, and market positioning."
+            },
+            {
+                "line": 31,
+                "original_line": "Kelechi Duru \u2013 Event Coordinator: Plans and executes company events, webinars, and conferences.",
+                "tampered_line": "Jessica Nduka \u2013 Content Marketing Manager: Oversees the creation and distribution of valuable content to attract and retain customers."
+            },
+            {
+                "line": 32,
+                "original_line": "Linda Eke \u2013 Public Relations Manager: Manages the company's public image, media relations, and crisis communications.",
+                "tampered_line": "Kelechi Duru \u2013 Event Coordinator: Plans and executes company events, webinars, and conferences."
+            },
+            {
+                "line": 33,
+                "original_line": "6. Sales Department",
+                "tampered_line": "Linda Eke \u2013 Public Relations Manager: Manages the company's public image, media relations, and crisis communications."
+            },
+            {
+                "line": 34,
+                "original_line": "Femi Adekunle \u2013 Key Account Manager: Manages relationships with major clients and drives strategic sales initiatives.",
+                "tampered_line": "6. Sales Department"
+            },
+            {
+                "line": 35,
+                "original_line": "Chioma Obasi \u2013 Sales Operations Analyst: Supports the sales team with data analysis, reporting, and process optimization.",
+                "tampered_line": "Femi Adekunle \u2013 Key Account Manager: Manages relationships with major clients and drives strategic sales initiatives."
+            },
+            {
+                "line": 36,
+                "original_line": "Kenneth Idoko \u2013 Inside Sales Representative: Handles sales remotely, often through phone calls and emails.",
+                "tampered_line": "Chioma Obasi \u2013 Sales Operations Analyst: Supports the sales team with data analysis, reporting, and process optimization."
+            },
+            {
+                "line": 37,
+                "original_line": "Hadiza Bello \u2013 Channel Sales Manager: Develops and manages sales through partner channels.",
+                "tampered_line": "Kenneth Idoko \u2013 Inside Sales Representative: Handles sales remotely, often through phone calls and emails."
+            },
+            {
+                "line": 38,
+                "original_line": "Johnpaul Onwuka \u2013 Sales Trainer: Develops and delivers training programs to enhance the sales team's skills.",
+                "tampered_line": "Hadiza Bello \u2013 Channel Sales Manager: Develops and manages sales through partner channels."
+            },
+            {
+                "line": 39,
+                "original_line": "7. Customer Service Department",
+                "tampered_line": "Johnpaul Onwuka \u2013 Sales Trainer: Develops and delivers training programs to enhance the sales team's skills."
+            },
+            {
+                "line": 40,
+                "original_line": "Blessing Musa \u2013 Customer Experience Specialist: Focuses on improving the overall customer journey and satisfaction.",
+                "tampered_line": "7. Customer Service Department"
+            },
+            {
+                "line": 41,
+                "original_line": "Michael Udoh \u2013 Support Team Lead: Supervises and guides a team of customer service representatives.",
+                "tampered_line": "Blessing Musa \u2013 Customer Experience Specialist: Focuses on improving the overall customer journey and satisfaction."
+            },
+            {
+                "line": 42,
+                "original_line": "Ugochi Ezeala \u2013 Escalation Specialist: Handles complex customer issues and resolves elevated complaints.",
+                "tampered_line": "Michael Udoh \u2013 Support Team Lead: Supervises and guides a team of customer service representatives."
+            },
+            {
+                "line": 43,
+                "original_line": "Sarah Adamu \u2013 Live Chat Agent: Provides real-time support to customers through online chat platforms.",
+                "tampered_line": "Ugochi Ezeala \u2013 Escalation Specialist: Handles complex customer issues and resolves elevated complaints."
+            },
+            {
+                "line": 44,
+                "original_line": "David Akpan \u2013 Customer Feedback Analyst: Collects, analyzes, and reports on customer feedback to identify areas for improvement.",
+                "tampered_line": "Sarah Adamu \u2013 Live Chat Agent: Provides real-time support to customers through online chat platforms."
+            },
+            {
+                "line": 45,
+                "original_line": "8. Legal & Compliance",
+                "tampered_line": "David Akpan \u2013 Customer Feedback Analyst: Collects, analyzes, and reports on customer feedback to identify areas for improvement."
+            },
+            {
+                "line": 46,
+                "original_line": "Chiamaka Eze \u2013 Corporate Counsel: Provides legal advice on corporate governance, contracts, and regulatory matters.",
+                "tampered_line": "8. Legal & Compliance"
+            },
+            {
+                "line": 47,
+                "original_line": "Jide Obi \u2013 Compliance Officer: Ensures the company adheres to all relevant laws, regulations, and internal policies.",
+                "tampered_line": "Chiamaka Eze \u2013 Corporate Counsel: Provides legal advice on corporate governance, contracts, and regulatory matters."
+            },
+            {
+                "line": 48,
+                "original_line": "Funke Olawale \u2013 Intellectual Property Lawyer: Manages patents, trademarks, and copyrights.",
+                "tampered_line": "Jide Obi \u2013 Compliance Officer: Ensures the company adheres to all relevant laws, regulations, and internal policies."
+            },
+            {
+                "line": 49,
+                "original_line": "Emeka Nwosu \u2013 Regulatory Affairs Specialist: Liaises with government agencies and ensures compliance with industry-specific regulations.",
+                "tampered_line": "Funke Olawale \u2013 Intellectual Property Lawyer: Manages patents, trademarks, and copyrights."
+            },
+            {
+                "line": 50,
+                "original_line": "Toluwani Akinola \u2013 Data Protection Officer: Oversees data privacy and ensures compliance with data protection laws (e.g., GDPR, NDPR).",
+                "tampered_line": "Emeka Nwosu \u2013 Regulatory Affairs Specialist: Liaises with government agencies and ensures compliance with industry-specific regulations."
+            },
+            {
+                "line": 51,
+                "original_line": "9. Research & Development",
+                "tampered_line": "Toluwani Akinola \u2013 Data Protection Officer: Oversees data privacy and ensures compliance with data protection laws (e.g., GDPR, NDPR)."
+            },
+            {
+                "line": 52,
+                "original_line": "Dr. Nnamdi Eke \u2013 Lead Research Scientist: Heads research projects and drives scientific innovation.",
+                "tampered_line": "9. Research & Development"
+            },
+            {
+                "line": 53,
+                "original_line": "Aminu Ibrahim \u2013 Product Development Engineer: Designs and develops new products or improves existing ones.",
+                "tampered_line": "Dr. Nnamdi Eke \u2013 Lead Research Scientist: Heads research projects and drives scientific innovation."
+            },
+            {
+                "line": 54,
+                "original_line": "Gloria Effiong \u2013 Research Assistant: Supports research activities, data collection, and experimental procedures.",
+                "tampered_line": "Aminu Ibrahim \u2013 Product Development Engineer: Designs and develops new products or improves existing ones."
+            },
+            {
+                "line": 55,
+                "original_line": "Abdulrahman Sani \u2013 Innovation Manager: Fosters a culture of innovation and manages the ideation pipeline.",
+                "tampered_line": "Gloria Effiong \u2013 Research Assistant: Supports research activities, data collection, and experimental procedures."
+            },
+            {
+                "line": 56,
+                "original_line": "Chioma Nwachukwu \u2013 UX Researcher: Conducts research to understand user needs and behaviors for product design.",
+                "tampered_line": "Abdulrahman Sani \u2013 Innovation Manager: Fosters a culture of innovation and manages the ideation pipeline."
+            },
+            {
+                "line": 57,
+                "original_line": "10. Facilities & Maintenance",
+                "tampered_line": "Chioma Nwachukwu \u2013 UX Researcher: Conducts research to understand user needs and behaviors for product design."
+            },
+            {
+                "line": 58,
+                "original_line": "James Adebayo \u2013 Safety Officer: Ensures workplace safety, conducts risk assessments, and manages emergency procedures.",
+                "tampered_line": "10. Facilities & Maintenance"
+            },
+            {
+                "line": 59,
+                "original_line": "Esther Okon \u2013 Facilities Coordinator: Manages space planning, office moves, and maintenance schedules.",
+                "tampered_line": "James Adebayo \u2013 Safety Officer: Ensures workplace safety, conducts risk assessments, and manages emergency procedures."
+            },
+            {
+                "line": 60,
+                "original_line": "Godwin Nnaji \u2013 HVAC Technician: Installs, maintains, and repairs heating, ventilation, and air conditioning systems.",
+                "tampered_line": "Esther Okon \u2013 Facilities Coordinator: Manages space planning, office moves, and maintenance schedules."
+            },
+            {
+                "line": 61,
+                "original_line": "Patience Ekejiuba \u2013 Grounds Supervisor: Oversees the maintenance and landscaping of company grounds.",
+                "tampered_line": "Godwin Nnaji \u2013 HVAC Technician: Installs, maintains, and repairs heating, ventilation, and air conditioning systems."
+            },
+            {
+                "line": 62,
+                "original_line": "Musa Danjuma \u2013 Building Maintenance Technician: Performs general repairs and maintenance tasks around the facility.",
+                "tampered_line": "Patience Ekejiuba \u2013 Grounds Supervisor: Oversees the maintenance and landscaping of company grounds."
+            },
+            {
+                "line": 63,
+                "original_line": "",
+                "tampered_line": "Musa Danjuma \u2013 Building Maintenance Technician: Performs general repairs and maintenance tasks around the facility."
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-06-18T09:47:29.273212",
+        "event": "Tampered copy found outside safe folder",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": [
+            {
+                "line": 9,
+                "original_line": "2. Finance & Accounting Department",
+                "tampered_line": "Iloduba Johnkennedy Chukwuemeka aa\u2013 Cost Accountant: Analyzes production costs and provides insights for cost control."
+            },
+            {
+                "line": 10,
+                "original_line": "Kwame Nkrumah \u2013 Senior Accountant: Responsible for financial reporting, budget management, and compliance.",
+                "tampered_line": "2. Finance & Accounting Department"
+            },
+            {
+                "line": 11,
+                "original_line": "Blessing Chukwu \u2013 Treasury Analyst: Manages cash flow, investments, and banking relationships.",
+                "tampered_line": "Kwame Nkrumah \u2013 Senior Accountant: Responsible for financial reporting, budget management, and compliance."
+            },
+            {
+                "line": 12,
+                "original_line": "David Ayodele \u2013 Cost Accountant: Analyzes production costs and provides insights for cost control.",
+                "tampered_line": "Blessing Chukwu \u2013 Treasury Analyst: Manages cash flow, investments, and banking relationships."
+            },
+            {
+                "line": 13,
+                "original_line": "Sandra Imade \u2013 Tax Specialist: Prepares and files tax returns, ensuring compliance with tax laws.",
+                "tampered_line": "David Ayodele \u2013 Cost Accountant: Analyzes production costs and provides insights for cost control."
+            },
+            {
+                "line": 14,
+                "original_line": "Tunde Bakare \u2013 Financial Controller: Oversees all accounting operations, internal controls, and audits.",
+                "tampered_line": "Sandra Imade \u2013 Tax Specialist: Prepares and files tax returns, ensuring compliance with tax laws."
+            },
+            {
+                "line": 15,
+                "original_line": "3. IT & Technical Support",
+                "tampered_line": "Tunde Bakare \u2013 Financial Controller: Oversees all accounting operations, internal controls, and audits."
+            },
+            {
+                "line": 16,
+                "original_line": "Zara Bello \u2013 Cybersecurity Analyst: Monitors systems for security breaches, investigates incidents, and implements security measures.",
+                "tampered_line": "3. IT & Technical Support"
+            },
+            {
+                "line": 17,
+                "original_line": "Kunle Adeniyi \u2013 Cloud Engineer: Designs, deploys, and manages cloud-based infrastructure and services.",
+                "tampered_line": "Zara Bello \u2013 Cybersecurity Analyst: Monitors systems for security breaches, investigates incidents, and implements security measures."
+            },
+            {
+                "line": 18,
+                "original_line": "Ngozi Okafor \u2013 UI/UX Designer: Focuses on user interface and user experience design for software applications.",
+                "tampered_line": "Kunle Adeniyi \u2013 Cloud Engineer: Designs, deploys, and manages cloud-based infrastructure and services."
+            },
+            {
+                "line": 19,
+                "original_line": "Precious Adeyemi \u2013 Database Administrator: Manages and maintains organizational databases, ensuring data availability and security.",
+                "tampered_line": "Ngozi Okafor \u2013 UI/UX Designer: Focuses on user interface and user experience design for software applications."
+            },
+            {
+                "line": 20,
+                "original_line": "Felix Osei \u2013 DevOps Engineer: Bridges the gap between development and operations, streamlining software deployment.",
+                "tampered_line": "Precious Adeyemi \u2013 Database Administrator: Manages and maintains organizational databases, ensuring data availability and security."
+            },
+            {
+                "line": 21,
+                "original_line": "4. Operations Department",
+                "tampered_line": "Felix Osei \u2013 DevOps Engineer: Bridges the gap between development and operations, streamlining software deployment."
+            },
+            {
+                "line": 22,
+                "original_line": "Daniel Obi \u2013 Logistics Manager: Oversees supply chain, warehousing, and distribution activities.",
+                "tampered_line": "4. Operations Department"
+            },
+            {
+                "line": 23,
+                "original_line": "Maryam Ali \u2013 Process Improvement Specialist: Identifies inefficiencies in workflows and implements solutions.",
+                "tampered_line": "Daniel Obi \u2013 Logistics Manager: Oversees supply chain, warehousing, and distribution activities."
+            },
+            {
+                "line": 24,
+                "original_line": "Chukwudi Eze \u2013 Production Supervisor: Manages daily production schedules, quality control, and team performance.",
+                "tampered_line": "Maryam Ali \u2013 Process Improvement Specialist: Identifies inefficiencies in workflows and implements solutions."
+            },
+            {
+                "line": 25,
+                "original_line": "Bolanle Fasina \u2013 Inventory Control Manager: Responsible for optimizing inventory levels and accuracy.",
+                "tampered_line": "Chukwudi Eze \u2013 Production Supervisor: Manages daily production schedules, quality control, and team performance."
+            },
+            {
+                "line": 26,
+                "original_line": "Ibrahim Mohammed \u2013 Supply Chain Coordinator: Liaises with suppliers and internal teams to ensure smooth material flow.",
+                "tampered_line": "Bolanle Fasina \u2013 Inventory Control Manager: Responsible for optimizing inventory levels and accuracy."
+            },
+            {
+                "line": 27,
+                "original_line": "5. Marketing & Communications",
+                "tampered_line": "Ibrahim Mohammed \u2013 Supply Chain Coordinator: Liaises with suppliers and internal teams to ensure smooth material flow."
+            },
+            {
+                "line": 28,
+                "original_line": "Amara Okoro \u2013 Digital Marketing Specialist: Develops and executes online marketing strategies, including SEO, SEM, and email campaigns.",
+                "tampered_line": "5. Marketing & Communications"
+            },
+            {
+                "line": 29,
+                "original_line": "Segun Ojo \u2013 Brand Manager: Responsible for brand identity, messaging, and market positioning.",
+                "tampered_line": "Amara Okoro \u2013 Digital Marketing Specialist: Develops and executes online marketing strategies, including SEO, SEM, and email campaigns."
+            },
+            {
+                "line": 30,
+                "original_line": "Jessica Nduka \u2013 Content Marketing Manager: Oversees the creation and distribution of valuable content to attract and retain customers.",
+                "tampered_line": "Segun Ojo \u2013 Brand Manager: Responsible for brand identity, messaging, and market positioning."
+            },
+            {
+                "line": 31,
+                "original_line": "Kelechi Duru \u2013 Event Coordinator: Plans and executes company events, webinars, and conferences.",
+                "tampered_line": "Jessica Nduka \u2013 Content Marketing Manager: Oversees the creation and distribution of valuable content to attract and retain customers."
+            },
+            {
+                "line": 32,
+                "original_line": "Linda Eke \u2013 Public Relations Manager: Manages the company's public image, media relations, and crisis communications.",
+                "tampered_line": "Kelechi Duru \u2013 Event Coordinator: Plans and executes company events, webinars, and conferences."
+            },
+            {
+                "line": 33,
+                "original_line": "6. Sales Department",
+                "tampered_line": "Linda Eke \u2013 Public Relations Manager: Manages the company's public image, media relations, and crisis communications."
+            },
+            {
+                "line": 34,
+                "original_line": "Femi Adekunle \u2013 Key Account Manager: Manages relationships with major clients and drives strategic sales initiatives.",
+                "tampered_line": "6. Sales Department"
+            },
+            {
+                "line": 35,
+                "original_line": "Chioma Obasi \u2013 Sales Operations Analyst: Supports the sales team with data analysis, reporting, and process optimization.",
+                "tampered_line": "Femi Adekunle \u2013 Key Account Manager: Manages relationships with major clients and drives strategic sales initiatives."
+            },
+            {
+                "line": 36,
+                "original_line": "Kenneth Idoko \u2013 Inside Sales Representative: Handles sales remotely, often through phone calls and emails.",
+                "tampered_line": "Chioma Obasi \u2013 Sales Operations Analyst: Supports the sales team with data analysis, reporting, and process optimization."
+            },
+            {
+                "line": 37,
+                "original_line": "Hadiza Bello \u2013 Channel Sales Manager: Develops and manages sales through partner channels.",
+                "tampered_line": "Kenneth Idoko \u2013 Inside Sales Representative: Handles sales remotely, often through phone calls and emails."
+            },
+            {
+                "line": 38,
+                "original_line": "Johnpaul Onwuka \u2013 Sales Trainer: Develops and delivers training programs to enhance the sales team's skills.",
+                "tampered_line": "Hadiza Bello \u2013 Channel Sales Manager: Develops and manages sales through partner channels."
+            },
+            {
+                "line": 39,
+                "original_line": "7. Customer Service Department",
+                "tampered_line": "Johnpaul Onwuka \u2013 Sales Trainer: Develops and delivers training programs to enhance the sales team's skills."
+            },
+            {
+                "line": 40,
+                "original_line": "Blessing Musa \u2013 Customer Experience Specialist: Focuses on improving the overall customer journey and satisfaction.",
+                "tampered_line": "7. Customer Service Department"
+            },
+            {
+                "line": 41,
+                "original_line": "Michael Udoh \u2013 Support Team Lead: Supervises and guides a team of customer service representatives.",
+                "tampered_line": "Blessing Musa \u2013 Customer Experience Specialist: Focuses on improving the overall customer journey and satisfaction."
+            },
+            {
+                "line": 42,
+                "original_line": "Ugochi Ezeala \u2013 Escalation Specialist: Handles complex customer issues and resolves elevated complaints.",
+                "tampered_line": "Michael Udoh \u2013 Support Team Lead: Supervises and guides a team of customer service representatives."
+            },
+            {
+                "line": 43,
+                "original_line": "Sarah Adamu \u2013 Live Chat Agent: Provides real-time support to customers through online chat platforms.",
+                "tampered_line": "Ugochi Ezeala \u2013 Escalation Specialist: Handles complex customer issues and resolves elevated complaints."
+            },
+            {
+                "line": 44,
+                "original_line": "David Akpan \u2013 Customer Feedback Analyst: Collects, analyzes, and reports on customer feedback to identify areas for improvement.",
+                "tampered_line": "Sarah Adamu \u2013 Live Chat Agent: Provides real-time support to customers through online chat platforms."
+            },
+            {
+                "line": 45,
+                "original_line": "8. Legal & Compliance",
+                "tampered_line": "David Akpan \u2013 Customer Feedback Analyst: Collects, analyzes, and reports on customer feedback to identify areas for improvement."
+            },
+            {
+                "line": 46,
+                "original_line": "Chiamaka Eze \u2013 Corporate Counsel: Provides legal advice on corporate governance, contracts, and regulatory matters.",
+                "tampered_line": "8. Legal & Compliance"
+            },
+            {
+                "line": 47,
+                "original_line": "Jide Obi \u2013 Compliance Officer: Ensures the company adheres to all relevant laws, regulations, and internal policies.",
+                "tampered_line": "Chiamaka Eze \u2013 Corporate Counsel: Provides legal advice on corporate governance, contracts, and regulatory matters."
+            },
+            {
+                "line": 48,
+                "original_line": "Funke Olawale \u2013 Intellectual Property Lawyer: Manages patents, trademarks, and copyrights.",
+                "tampered_line": "Jide Obi \u2013 Compliance Officer: Ensures the company adheres to all relevant laws, regulations, and internal policies."
+            },
+            {
+                "line": 49,
+                "original_line": "Emeka Nwosu \u2013 Regulatory Affairs Specialist: Liaises with government agencies and ensures compliance with industry-specific regulations.",
+                "tampered_line": "Funke Olawale \u2013 Intellectual Property Lawyer: Manages patents, trademarks, and copyrights."
+            },
+            {
+                "line": 50,
+                "original_line": "Toluwani Akinola \u2013 Data Protection Officer: Oversees data privacy and ensures compliance with data protection laws (e.g., GDPR, NDPR).",
+                "tampered_line": "Emeka Nwosu \u2013 Regulatory Affairs Specialist: Liaises with government agencies and ensures compliance with industry-specific regulations."
+            },
+            {
+                "line": 51,
+                "original_line": "9. Research & Development",
+                "tampered_line": "Toluwani Akinola \u2013 Data Protection Officer: Oversees data privacy and ensures compliance with data protection laws (e.g., GDPR, NDPR)."
+            },
+            {
+                "line": 52,
+                "original_line": "Dr. Nnamdi Eke \u2013 Lead Research Scientist: Heads research projects and drives scientific innovation.",
+                "tampered_line": "9. Research & Development"
+            },
+            {
+                "line": 53,
+                "original_line": "Aminu Ibrahim \u2013 Product Development Engineer: Designs and develops new products or improves existing ones.",
+                "tampered_line": "Dr. Nnamdi Eke \u2013 Lead Research Scientist: Heads research projects and drives scientific innovation."
+            },
+            {
+                "line": 54,
+                "original_line": "Gloria Effiong \u2013 Research Assistant: Supports research activities, data collection, and experimental procedures.",
+                "tampered_line": "Aminu Ibrahim \u2013 Product Development Engineer: Designs and develops new products or improves existing ones."
+            },
+            {
+                "line": 55,
+                "original_line": "Abdulrahman Sani \u2013 Innovation Manager: Fosters a culture of innovation and manages the ideation pipeline.",
+                "tampered_line": "Gloria Effiong \u2013 Research Assistant: Supports research activities, data collection, and experimental procedures."
+            },
+            {
+                "line": 56,
+                "original_line": "Chioma Nwachukwu \u2013 UX Researcher: Conducts research to understand user needs and behaviors for product design.",
+                "tampered_line": "Abdulrahman Sani \u2013 Innovation Manager: Fosters a culture of innovation and manages the ideation pipeline."
+            },
+            {
+                "line": 57,
+                "original_line": "10. Facilities & Maintenance",
+                "tampered_line": "Chioma Nwachukwu \u2013 UX Researcher: Conducts research to understand user needs and behaviors for product design."
+            },
+            {
+                "line": 58,
+                "original_line": "James Adebayo \u2013 Safety Officer: Ensures workplace safety, conducts risk assessments, and manages emergency procedures.",
+                "tampered_line": "10. Facilities & Maintenance"
+            },
+            {
+                "line": 59,
+                "original_line": "Esther Okon \u2013 Facilities Coordinator: Manages space planning, office moves, and maintenance schedules.",
+                "tampered_line": "James Adebayo \u2013 Safety Officer: Ensures workplace safety, conducts risk assessments, and manages emergency procedures."
+            },
+            {
+                "line": 60,
+                "original_line": "Godwin Nnaji \u2013 HVAC Technician: Installs, maintains, and repairs heating, ventilation, and air conditioning systems.",
+                "tampered_line": "Esther Okon \u2013 Facilities Coordinator: Manages space planning, office moves, and maintenance schedules."
+            },
+            {
+                "line": 61,
+                "original_line": "Patience Ekejiuba \u2013 Grounds Supervisor: Oversees the maintenance and landscaping of company grounds.",
+                "tampered_line": "Godwin Nnaji \u2013 HVAC Technician: Installs, maintains, and repairs heating, ventilation, and air conditioning systems."
+            },
+            {
+                "line": 62,
+                "original_line": "Musa Danjuma \u2013 Building Maintenance Technician: Performs general repairs and maintenance tasks around the facility.",
+                "tampered_line": "Patience Ekejiuba \u2013 Grounds Supervisor: Oversees the maintenance and landscaping of company grounds."
+            },
+            {
+                "line": 63,
+                "original_line": "",
+                "tampered_line": "Musa Danjuma \u2013 Building Maintenance Technician: Performs general repairs and maintenance tasks around the facility."
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-06-18T09:47:31.303157",
+        "event": "Tampered copy found outside safe folder",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": [
+            {
+                "line": 9,
+                "original_line": "2. Finance & Accounting Department",
+                "tampered_line": "Iloduba Johnkennedy Chukwuemeka aa\u2013 Cost Accountant: Analyzes production costs and provides insights for cost control."
+            },
+            {
+                "line": 10,
+                "original_line": "Kwame Nkrumah \u2013 Senior Accountant: Responsible for financial reporting, budget management, and compliance.",
+                "tampered_line": "2. Finance & Accounting Department"
+            },
+            {
+                "line": 11,
+                "original_line": "Blessing Chukwu \u2013 Treasury Analyst: Manages cash flow, investments, and banking relationships.",
+                "tampered_line": "Kwame Nkrumah \u2013 Senior Accountant: Responsible for financial reporting, budget management, and compliance."
+            },
+            {
+                "line": 12,
+                "original_line": "David Ayodele \u2013 Cost Accountant: Analyzes production costs and provides insights for cost control.",
+                "tampered_line": "Blessing Chukwu \u2013 Treasury Analyst: Manages cash flow, investments, and banking relationships."
+            },
+            {
+                "line": 13,
+                "original_line": "Sandra Imade \u2013 Tax Specialist: Prepares and files tax returns, ensuring compliance with tax laws.",
+                "tampered_line": "David Ayodele \u2013 Cost Accountant: Analyzes production costs and provides insights for cost control."
+            },
+            {
+                "line": 14,
+                "original_line": "Tunde Bakare \u2013 Financial Controller: Oversees all accounting operations, internal controls, and audits.",
+                "tampered_line": "Sandra Imade \u2013 Tax Specialist: Prepares and files tax returns, ensuring compliance with tax laws."
+            },
+            {
+                "line": 15,
+                "original_line": "3. IT & Technical Support",
+                "tampered_line": "Tunde Bakare \u2013 Financial Controller: Oversees all accounting operations, internal controls, and audits."
+            },
+            {
+                "line": 16,
+                "original_line": "Zara Bello \u2013 Cybersecurity Analyst: Monitors systems for security breaches, investigates incidents, and implements security measures.",
+                "tampered_line": "3. IT & Technical Support"
+            },
+            {
+                "line": 17,
+                "original_line": "Kunle Adeniyi \u2013 Cloud Engineer: Designs, deploys, and manages cloud-based infrastructure and services.",
+                "tampered_line": "Zara Bello \u2013 Cybersecurity Analyst: Monitors systems for security breaches, investigates incidents, and implements security measures."
+            },
+            {
+                "line": 18,
+                "original_line": "Ngozi Okafor \u2013 UI/UX Designer: Focuses on user interface and user experience design for software applications.",
+                "tampered_line": "Kunle Adeniyi \u2013 Cloud Engineer: Designs, deploys, and manages cloud-based infrastructure and services."
+            },
+            {
+                "line": 19,
+                "original_line": "Precious Adeyemi \u2013 Database Administrator: Manages and maintains organizational databases, ensuring data availability and security.",
+                "tampered_line": "Ngozi Okafor \u2013 UI/UX Designer: Focuses on user interface and user experience design for software applications."
+            },
+            {
+                "line": 20,
+                "original_line": "Felix Osei \u2013 DevOps Engineer: Bridges the gap between development and operations, streamlining software deployment.",
+                "tampered_line": "Precious Adeyemi \u2013 Database Administrator: Manages and maintains organizational databases, ensuring data availability and security."
+            },
+            {
+                "line": 21,
+                "original_line": "4. Operations Department",
+                "tampered_line": "Felix Osei \u2013 DevOps Engineer: Bridges the gap between development and operations, streamlining software deployment."
+            },
+            {
+                "line": 22,
+                "original_line": "Daniel Obi \u2013 Logistics Manager: Oversees supply chain, warehousing, and distribution activities.",
+                "tampered_line": "4. Operations Department"
+            },
+            {
+                "line": 23,
+                "original_line": "Maryam Ali \u2013 Process Improvement Specialist: Identifies inefficiencies in workflows and implements solutions.",
+                "tampered_line": "Daniel Obi \u2013 Logistics Manager: Oversees supply chain, warehousing, and distribution activities."
+            },
+            {
+                "line": 24,
+                "original_line": "Chukwudi Eze \u2013 Production Supervisor: Manages daily production schedules, quality control, and team performance.",
+                "tampered_line": "Maryam Ali \u2013 Process Improvement Specialist: Identifies inefficiencies in workflows and implements solutions."
+            },
+            {
+                "line": 25,
+                "original_line": "Bolanle Fasina \u2013 Inventory Control Manager: Responsible for optimizing inventory levels and accuracy.",
+                "tampered_line": "Chukwudi Eze \u2013 Production Supervisor: Manages daily production schedules, quality control, and team performance."
+            },
+            {
+                "line": 26,
+                "original_line": "Ibrahim Mohammed \u2013 Supply Chain Coordinator: Liaises with suppliers and internal teams to ensure smooth material flow.",
+                "tampered_line": "Bolanle Fasina \u2013 Inventory Control Manager: Responsible for optimizing inventory levels and accuracy."
+            },
+            {
+                "line": 27,
+                "original_line": "5. Marketing & Communications",
+                "tampered_line": "Ibrahim Mohammed \u2013 Supply Chain Coordinator: Liaises with suppliers and internal teams to ensure smooth material flow."
+            },
+            {
+                "line": 28,
+                "original_line": "Amara Okoro \u2013 Digital Marketing Specialist: Develops and executes online marketing strategies, including SEO, SEM, and email campaigns.",
+                "tampered_line": "5. Marketing & Communications"
+            },
+            {
+                "line": 29,
+                "original_line": "Segun Ojo \u2013 Brand Manager: Responsible for brand identity, messaging, and market positioning.",
+                "tampered_line": "Amara Okoro \u2013 Digital Marketing Specialist: Develops and executes online marketing strategies, including SEO, SEM, and email campaigns."
+            },
+            {
+                "line": 30,
+                "original_line": "Jessica Nduka \u2013 Content Marketing Manager: Oversees the creation and distribution of valuable content to attract and retain customers.",
+                "tampered_line": "Segun Ojo \u2013 Brand Manager: Responsible for brand identity, messaging, and market positioning."
+            },
+            {
+                "line": 31,
+                "original_line": "Kelechi Duru \u2013 Event Coordinator: Plans and executes company events, webinars, and conferences.",
+                "tampered_line": "Jessica Nduka \u2013 Content Marketing Manager: Oversees the creation and distribution of valuable content to attract and retain customers."
+            },
+            {
+                "line": 32,
+                "original_line": "Linda Eke \u2013 Public Relations Manager: Manages the company's public image, media relations, and crisis communications.",
+                "tampered_line": "Kelechi Duru \u2013 Event Coordinator: Plans and executes company events, webinars, and conferences."
+            },
+            {
+                "line": 33,
+                "original_line": "6. Sales Department",
+                "tampered_line": "Linda Eke \u2013 Public Relations Manager: Manages the company's public image, media relations, and crisis communications."
+            },
+            {
+                "line": 34,
+                "original_line": "Femi Adekunle \u2013 Key Account Manager: Manages relationships with major clients and drives strategic sales initiatives.",
+                "tampered_line": "6. Sales Department"
+            },
+            {
+                "line": 35,
+                "original_line": "Chioma Obasi \u2013 Sales Operations Analyst: Supports the sales team with data analysis, reporting, and process optimization.",
+                "tampered_line": "Femi Adekunle \u2013 Key Account Manager: Manages relationships with major clients and drives strategic sales initiatives."
+            },
+            {
+                "line": 36,
+                "original_line": "Kenneth Idoko \u2013 Inside Sales Representative: Handles sales remotely, often through phone calls and emails.",
+                "tampered_line": "Chioma Obasi \u2013 Sales Operations Analyst: Supports the sales team with data analysis, reporting, and process optimization."
+            },
+            {
+                "line": 37,
+                "original_line": "Hadiza Bello \u2013 Channel Sales Manager: Develops and manages sales through partner channels.",
+                "tampered_line": "Kenneth Idoko \u2013 Inside Sales Representative: Handles sales remotely, often through phone calls and emails."
+            },
+            {
+                "line": 38,
+                "original_line": "Johnpaul Onwuka \u2013 Sales Trainer: Develops and delivers training programs to enhance the sales team's skills.",
+                "tampered_line": "Hadiza Bello \u2013 Channel Sales Manager: Develops and manages sales through partner channels."
+            },
+            {
+                "line": 39,
+                "original_line": "7. Customer Service Department",
+                "tampered_line": "Johnpaul Onwuka \u2013 Sales Trainer: Develops and delivers training programs to enhance the sales team's skills."
+            },
+            {
+                "line": 40,
+                "original_line": "Blessing Musa \u2013 Customer Experience Specialist: Focuses on improving the overall customer journey and satisfaction.",
+                "tampered_line": "7. Customer Service Department"
+            },
+            {
+                "line": 41,
+                "original_line": "Michael Udoh \u2013 Support Team Lead: Supervises and guides a team of customer service representatives.",
+                "tampered_line": "Blessing Musa \u2013 Customer Experience Specialist: Focuses on improving the overall customer journey and satisfaction."
+            },
+            {
+                "line": 42,
+                "original_line": "Ugochi Ezeala \u2013 Escalation Specialist: Handles complex customer issues and resolves elevated complaints.",
+                "tampered_line": "Michael Udoh \u2013 Support Team Lead: Supervises and guides a team of customer service representatives."
+            },
+            {
+                "line": 43,
+                "original_line": "Sarah Adamu \u2013 Live Chat Agent: Provides real-time support to customers through online chat platforms.",
+                "tampered_line": "Ugochi Ezeala \u2013 Escalation Specialist: Handles complex customer issues and resolves elevated complaints."
+            },
+            {
+                "line": 44,
+                "original_line": "David Akpan \u2013 Customer Feedback Analyst: Collects, analyzes, and reports on customer feedback to identify areas for improvement.",
+                "tampered_line": "Sarah Adamu \u2013 Live Chat Agent: Provides real-time support to customers through online chat platforms."
+            },
+            {
+                "line": 45,
+                "original_line": "8. Legal & Compliance",
+                "tampered_line": "David Akpan \u2013 Customer Feedback Analyst: Collects, analyzes, and reports on customer feedback to identify areas for improvement."
+            },
+            {
+                "line": 46,
+                "original_line": "Chiamaka Eze \u2013 Corporate Counsel: Provides legal advice on corporate governance, contracts, and regulatory matters.",
+                "tampered_line": "8. Legal & Compliance"
+            },
+            {
+                "line": 47,
+                "original_line": "Jide Obi \u2013 Compliance Officer: Ensures the company adheres to all relevant laws, regulations, and internal policies.",
+                "tampered_line": "Chiamaka Eze \u2013 Corporate Counsel: Provides legal advice on corporate governance, contracts, and regulatory matters."
+            },
+            {
+                "line": 48,
+                "original_line": "Funke Olawale \u2013 Intellectual Property Lawyer: Manages patents, trademarks, and copyrights.",
+                "tampered_line": "Jide Obi \u2013 Compliance Officer: Ensures the company adheres to all relevant laws, regulations, and internal policies."
+            },
+            {
+                "line": 49,
+                "original_line": "Emeka Nwosu \u2013 Regulatory Affairs Specialist: Liaises with government agencies and ensures compliance with industry-specific regulations.",
+                "tampered_line": "Funke Olawale \u2013 Intellectual Property Lawyer: Manages patents, trademarks, and copyrights."
+            },
+            {
+                "line": 50,
+                "original_line": "Toluwani Akinola \u2013 Data Protection Officer: Oversees data privacy and ensures compliance with data protection laws (e.g., GDPR, NDPR).",
+                "tampered_line": "Emeka Nwosu \u2013 Regulatory Affairs Specialist: Liaises with government agencies and ensures compliance with industry-specific regulations."
+            },
+            {
+                "line": 51,
+                "original_line": "9. Research & Development",
+                "tampered_line": "Toluwani Akinola \u2013 Data Protection Officer: Oversees data privacy and ensures compliance with data protection laws (e.g., GDPR, NDPR)."
+            },
+            {
+                "line": 52,
+                "original_line": "Dr. Nnamdi Eke \u2013 Lead Research Scientist: Heads research projects and drives scientific innovation.",
+                "tampered_line": "9. Research & Development"
+            },
+            {
+                "line": 53,
+                "original_line": "Aminu Ibrahim \u2013 Product Development Engineer: Designs and develops new products or improves existing ones.",
+                "tampered_line": "Dr. Nnamdi Eke \u2013 Lead Research Scientist: Heads research projects and drives scientific innovation."
+            },
+            {
+                "line": 54,
+                "original_line": "Gloria Effiong \u2013 Research Assistant: Supports research activities, data collection, and experimental procedures.",
+                "tampered_line": "Aminu Ibrahim \u2013 Product Development Engineer: Designs and develops new products or improves existing ones."
+            },
+            {
+                "line": 55,
+                "original_line": "Abdulrahman Sani \u2013 Innovation Manager: Fosters a culture of innovation and manages the ideation pipeline.",
+                "tampered_line": "Gloria Effiong \u2013 Research Assistant: Supports research activities, data collection, and experimental procedures."
+            },
+            {
+                "line": 56,
+                "original_line": "Chioma Nwachukwu \u2013 UX Researcher: Conducts research to understand user needs and behaviors for product design.",
+                "tampered_line": "Abdulrahman Sani \u2013 Innovation Manager: Fosters a culture of innovation and manages the ideation pipeline."
+            },
+            {
+                "line": 57,
+                "original_line": "10. Facilities & Maintenance",
+                "tampered_line": "Chioma Nwachukwu \u2013 UX Researcher: Conducts research to understand user needs and behaviors for product design."
+            },
+            {
+                "line": 58,
+                "original_line": "James Adebayo \u2013 Safety Officer: Ensures workplace safety, conducts risk assessments, and manages emergency procedures.",
+                "tampered_line": "10. Facilities & Maintenance"
+            },
+            {
+                "line": 59,
+                "original_line": "Esther Okon \u2013 Facilities Coordinator: Manages space planning, office moves, and maintenance schedules.",
+                "tampered_line": "James Adebayo \u2013 Safety Officer: Ensures workplace safety, conducts risk assessments, and manages emergency procedures."
+            },
+            {
+                "line": 60,
+                "original_line": "Godwin Nnaji \u2013 HVAC Technician: Installs, maintains, and repairs heating, ventilation, and air conditioning systems.",
+                "tampered_line": "Esther Okon \u2013 Facilities Coordinator: Manages space planning, office moves, and maintenance schedules."
+            },
+            {
+                "line": 61,
+                "original_line": "Patience Ekejiuba \u2013 Grounds Supervisor: Oversees the maintenance and landscaping of company grounds.",
+                "tampered_line": "Godwin Nnaji \u2013 HVAC Technician: Installs, maintains, and repairs heating, ventilation, and air conditioning systems."
+            },
+            {
+                "line": 62,
+                "original_line": "Musa Danjuma \u2013 Building Maintenance Technician: Performs general repairs and maintenance tasks around the facility.",
+                "tampered_line": "Patience Ekejiuba \u2013 Grounds Supervisor: Oversees the maintenance and landscaping of company grounds."
+            },
+            {
+                "line": 63,
+                "original_line": "",
+                "tampered_line": "Musa Danjuma \u2013 Building Maintenance Technician: Performs general repairs and maintenance tasks around the facility."
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-06-18T09:55:31.591390",
+        "event": "Tampered copy found outside safe folder",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": [
+            {
+                "line": 5,
+                "original_line": "Chris Okoro \u2013 Office Administrator: Oversees office supplies, vendor relations, and front desk operations.",
+                "tampered_line": "Iloduba Johnkennedy \u2013 Office Administrator: Oversees office supplies, vendor relations, and front desk operations."
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-06-18T10:01:47.795141",
+        "event": "Unauthorized copy of file found (unchanged)",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": []
+    },
+    {
+        "timestamp": "2025-06-18T10:01:49.555290",
+        "event": "Unauthorized copy of file found (unchanged)",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": []
+    },
+    {
+        "timestamp": "2025-06-18T10:02:45.725150",
+        "event": "Unauthorized copy of file found (unchanged)",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": []
+    },
+    {
+        "timestamp": "2025-06-18T10:05:14.332183",
+        "event": "Unauthorized copy of file found (unchanged)",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": []
+    },
+    {
+        "timestamp": "2025-06-18T10:05:38.927769",
+        "event": "Unauthorized copy of file found (unchanged)",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": []
+    },
+    {
+        "timestamp": "2025-06-18T10:06:00.592480",
+        "event": "Tampered copy found outside safe folder",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": [
+            {
+                "line": 5,
+                "original_line": "Chris Okoro \u2013 Office Administrator: Oversees office supplies, vendor relations, and front desk operations.",
+                "tampered_line": "Chris Okoro \u2013 Office Administrator: Oversees office supplies, vendor relations, and front desk operations.."
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-06-18T10:06:12.343543",
+        "event": "Unauthorized copy of file found (unchanged)",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": []
+    },
+    {
+        "timestamp": "2025-06-18T10:06:13.580094",
+        "event": "Unauthorized copy of file found (unchanged)",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": []
+    },
+    {
+        "timestamp": "2025-06-18T10:09:04.715501",
+        "event": "Tampered copy found outside safe folder",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": [
+            {
+                "line": 6,
+                "original_line": "Fatima Abubakar \u2013 Talent Acquisition Specialist: Focuses on sourcing, interviewing, and recruiting new hires.",
+                "tampered_line": "Fatima Abubakar \u2013 Talent Acquisition Specialist: Focuses on sourcing, interviewing, and recruiting new hires.."
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-06-18T10:09:06.368273",
+        "event": "Tampered copy found outside safe folder",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": [
+            {
+                "line": 6,
+                "original_line": "Fatima Abubakar \u2013 Talent Acquisition Specialist: Focuses on sourcing, interviewing, and recruiting new hires.",
+                "tampered_line": "Fatima Abubakar \u2013 Talent Acquisition Specialist: Focuses on sourcing, interviewing, and recruiting new hires.."
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-06-18T10:09:16.828090",
+        "event": "Unauthorized copy of file found (unchanged)",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": []
+    },
+    {
+        "timestamp": "2025-06-18T10:11:40.237457",
+        "event": "Tampered copy found outside safe folder",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": [
+            {
+                "line": 6,
+                "original_line": "Fatima Abubakar \u2013 Talent Acquisition Specialist: Focuses on sourcing, interviewing, and recruiting new hires.",
+                "tampered_line": "Fatima Abubakar \u2013 Talent Acquisition Specialist: Focuses on sourcing, interviewing, and recruiting new hires\u2026"
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-06-18T10:11:58.557852",
+        "event": "Tampered copy found outside safe folder",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": [
+            {
+                "line": 6,
+                "original_line": "Fatima Abubakar \u2013 Talent Acquisition Specialist: Focuses on sourcing, interviewing, and recruiting new hires.",
+                "tampered_line": "Fatima Abubakar \u2013 Talent Acquisition Specialist: Focuses on sourcing, interviewing, and recruiting new hire."
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-06-18T10:12:32.306723",
+        "event": "Tampered copy found outside safe folder",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": [
+            {
+                "line": 6,
+                "original_line": "Fatima Abubakar \u2013 Talent Acquisition Specialist: Focuses on sourcing, interviewing, and recruiting new hires.",
+                "tampered_line": "Fatima Abubakar \u2013 Talent Acquisition Specialist: Focuses on sourcing, interviewing, and recruiting new hire\u2026"
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-06-18T10:12:47.692528",
+        "event": "Tampered copy found outside safe folder",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": [
+            {
+                "line": 6,
+                "original_line": "Fatima Abubakar \u2013 Talent Acquisition Specialist: Focuses on sourcing, interviewing, and recruiting new hires.",
+                "tampered_line": "Fatima Abubakar \u2013 Talent Acquisition Specialist: Focuses on sourcing, interviewing, and recruiting new hire."
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-06-18T10:12:49.018693",
+        "event": "Tampered copy found outside safe folder",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": [
+            {
+                "line": 6,
+                "original_line": "Fatima Abubakar \u2013 Talent Acquisition Specialist: Focuses on sourcing, interviewing, and recruiting new hires.",
+                "tampered_line": "Fatima Abubakar \u2013 Talent Acquisition Specialist: Focuses on sourcing, interviewing, and recruiting new hire."
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-06-18T10:13:15.551304",
+        "event": "Unauthorized copy of file found (content matches original)",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": []
+    },
+    {
+        "timestamp": "2025-06-18T10:13:16.587794",
+        "event": "Unauthorized copy of file found (content matches original)",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": []
+    },
+    {
+        "timestamp": "2025-06-18T10:18:50.144944",
+        "event": "Tampered copy found outside safe folder",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": [
+            {
+                "line": 6,
+                "original_line": "Fatima Abubakar \u2013 Talent Acquisition Specialist: Focuses on sourcing, interviewing, and recruiting new hires.",
+                "tampered_line": "Fatima Abubakar \u2013 Talent Acquisition Specialist: Focuses on sourcing, interviewing, and recruiting new hires.//"
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-06-18T10:19:00.520492",
+        "event": "Unauthorized copy of file found (content matches original)",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": []
+    },
+    {
+        "timestamp": "2025-06-18T10:19:02.125150",
+        "event": "Unauthorized copy of file found (content matches original)",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": []
+    },
+    {
+        "timestamp": "2025-06-18T10:26:20.376207",
+        "event": "Tampered copy found outside safe folder",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": [
+            {
+                "line": 5,
+                "original_line": "Chris Okoro \u2013 Office Administrator: Oversees office supplies, vendor relations, and front desk operations.",
+                "tampered_line": "Iloduba Johnkennedy \u2013 Office Administrator: Oversees office supplies, vendor relations, and front desk operations."
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-06-18T10:26:22.134284",
+        "event": "Tampered copy found outside safe folder",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": [
+            {
+                "line": 5,
+                "original_line": "Chris Okoro \u2013 Office Administrator: Oversees office supplies, vendor relations, and front desk operations.",
+                "tampered_line": "Iloduba Johnkennedy \u2013 Office Administrator: Oversees office supplies, vendor relations, and front desk operations."
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-06-18T10:27:57.282039",
+        "event": "Unauthorized copy of file found (content matches original)",
+        "file_path": "C:\\Users\\USER\\Documents\\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx",
+        "changes": []
+    }
+]
