@@ -297,7 +297,7 @@ This is the core script that continuously monitors your document and triggers al
     # Update this path to your document's actual location
     ORIGINAL_FILE_PATH = r"C:\Users\USER\Desktop\ProtectedDocs\List_of_Freshly_Employed_Personnel_and_Their_Roles.docx"
     # Update this path to a safe, trusted location for authorized copies
-    SAFE_COPY_FOLDER = r"C:\Users\USER\OneDrive\Documents"
+    SAFE_COPY_FOLDER = r"C:\Users\USER\Documents"
     JSON_LOG_PATH = "tamper_log.json"
     USER_ROOT = os.path.expanduser("~")
 
@@ -691,6 +691,9 @@ Scenario 3: Activity Log (tamper_log.json)
 The tamper_log.json file provides a comprehensive history of events:
 
 JSON
+
+
+NB: Always be sensitive about the pathways you are  using.
 
 [
     {
